@@ -5,43 +5,48 @@
   "skills": [
   {
     "name": "Twirl Dash",
+        "youtube": "https://www.youtube.com/embed/NUQjSfxAq2M",
     "weapon": "1H Curved Sword",
     "cost": "100 Focus",
     "from": "Scimitar",
-    "tags": ["Dash", "Twirl", "1H Curved Sword"],
-    "youtube": "https://www.youtube.com/embed/NUQjSfxAq2M"
+    "tags": ["Dash", "Twirl", "1H Curved Sword"]
+
   },
   {
     "name": "Frost Dash",
+        "youtube": "https://www.youtube.com/embed/bKBiTJaU8hk",
     "weapon": "Knife",
     "cost": "100 Focus",
     "from": "Jackknife",
-    "tags": ["Dash", "Cold", "Knife"],
-    "youtube": "https://www.youtube.com/embed/bKBiTJaU8hk"
+    "tags": ["Dash", "Cold", "Knife"]
+
   },
   {
     "name": "Piercing Dash",
+        "youtube": "https://www.youtube.com/embed/lM4jAv5e1fU",
     "weapon": "Knife",
     "cost": "100 Focus",
     "from": "Hunter's Knife",
-    "tags": ["Dash", "Piercing", "Knife"],
-    "youtube": "https://www.youtube.com/embed/lM4jAv5e1fU"
+    "tags": ["Dash", "Piercing", "Knife"]
+
   },
   {
     "name": "Dual Flurry",
+        "youtube": "https://www.youtube.com/embed/fFynD5WxFRg",
     "weapon": "Dual Daggers",
     "cost": "50 Focus",
     "from": "Bleeder's Delight",
-    "tags": ["Dual", "Flurry", "Dual Daggers"],
-    "youtube": "https://www.youtube.com/embed/fFynD5WxFRg"
+    "tags": ["Dual", "Flurry", "Dual Daggers"]
+
   },
   {
     "name": "Piercing Flurry",
+        "youtube": "https://www.youtube.com/embed/u_XPbYKmaVg",
     "weapon": "Rapier",
     "cost": "100 Focus",
     "from": "Pig Sticker",
-    "tags": ["Piercing", "Flurry", "Rapier"],
-    "youtube": "https://www.youtube.com/embed/u_XPbYKmaVg"
+    "tags": ["Piercing", "Flurry", "Rapier"]
+
   }
 ]
 }
