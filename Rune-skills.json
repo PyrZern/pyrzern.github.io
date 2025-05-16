@@ -37,7 +37,7 @@
     "cost": "50 Focus",
     "from": "Bleeder's Delight",
     "update": "Breach",
-    "tags": ["Breach", "Focus", "Dual", "Flurry", "Dual Daggers"]
+    "tags": ["Breach", "Focus", "Two-Handed", "Dual", "Flurry", "Dual Daggers"]
   },
   {
     "name": "Piercing Flurry",
@@ -56,7 +56,7 @@
     "cost": "100 Focus",
     "from": "Brutish Cudgel",
     "update": "Breach",
-    "tags": ["Breach", "Focus", "Club", "Two-Handed", "Slam"]
+    "tags": ["Breach", "Focus", "Two-Handed", "Club", "Slam"]
   },
   {
     "name": "Kick Slash",
@@ -81,7 +81,7 @@
     "weapon": "Gauntlets",
     "cost": "125 Focus",
     "from": "Shellguard Gauntlets",
-    "tags": ["Gauntlets", "Martial"]
+    "tags": ["Gauntlets", "Two-Handed", "Martial"]
   },
   {
     "name": "Tremor Wave",
@@ -89,7 +89,7 @@
     "weapon": "Gauntlets",
     "cost": "50 Focus",
     "from": "Deadfang",
-    "tags": ["Gauntlets", "Martial"]
+    "tags": ["Gauntlets", "Two-Handed", "Martial"]
   },
   {
     "name": "Drive Break",
@@ -97,7 +97,7 @@
     "weapon": "Gauntlets",
     "cost": "50 Focus",
     "from": "Heibach's Claws",
-    "tags": ["Gauntlets", "Martial"]
+    "tags": ["Gauntlets", "Two-Handed", "Martial"]
   },
   {
     "name": "Plague Retch",
@@ -105,7 +105,7 @@
     "weapon": "Gauntlets",
     "cost": "50 Focus",
     "from": "Cursed Unguis",
-    "tags": ["Gauntlets", "Martial"]
+    "tags": ["Gauntlets", "Two-Handed", "Martial"]
   }
 
 
