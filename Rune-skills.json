@@ -10,7 +10,6 @@
     "cost": "100 Focus",
     "from": "Scimitar",
     "tags": ["Dash", "Twirl", "1H Curved Sword"]
-
   },
   {
     "name": "Frost Dash",
@@ -19,7 +18,6 @@
     "cost": "100 Focus",
     "from": "Jackknife",
     "tags": ["Dash", "Cold", "Knife"]
-
   },
   {
     "name": "Piercing Dash",
@@ -28,7 +26,6 @@
     "cost": "100 Focus",
     "from": "Hunter's Knife",
     "tags": ["Dash", "Piercing", "Knife"]
-
   },
   {
     "name": "Dual Flurry",
@@ -37,7 +34,6 @@
     "cost": "50 Focus",
     "from": "Bleeder's Delight",
     "tags": ["Dual", "Flurry", "Dual Daggers"]
-
   },
   {
     "name": "Piercing Flurry",
@@ -46,7 +42,20 @@
     "cost": "100 Focus",
     "from": "Pig Sticker",
     "tags": ["Piercing", "Flurry", "Rapier"]
+  },
 
+  {
+    "name": "-----",
+        "youtube": "-----",
+    "weapon": "-----",
+    "cost": "100 Focus",
+    "from": "-----",
+    "tags": ["Piercing", "Flurry", "Rapier"]
   }
+
+
+
+
+    
 ]
 }
