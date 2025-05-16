@@ -10,7 +10,7 @@
     "cost": "100 Focus",
     "from": "Scimitar",
     "update": "Breach",
-    "tags": ["Dash", "Twirl", "1H Curved Sword"]
+    "tags": ["Breach", "Focus", "Dash", "Twirl", "Curved"]
   },
   {
     "name": "Frost Dash",
@@ -19,7 +19,7 @@
     "cost": "100 Focus",
     "from": "Jackknife",
     "update": "Breach",
-    "tags": ["Dash", "Cold", "Knife"]
+    "tags": ["Breach", "Focus", "Dash", "Cold", "Knife"]
   },
   {
     "name": "Piercing Dash",
@@ -28,7 +28,7 @@
     "cost": "100 Focus",
     "from": "Hunter's Knife",
     "update": "Breach",
-    "tags": ["Dash", "Piercing", "Knife"]
+    "tags": ["Breach", "Focus", "Dash", "Piercing", "Knife"]
   },
   {
     "name": "Dual Flurry",
@@ -37,7 +37,7 @@
     "cost": "50 Focus",
     "from": "Bleeder's Delight",
     "update": "Breach",
-    "tags": ["Dual", "Flurry", "Dual Daggers"]
+    "tags": ["Breach", "Focus", "Dual", "Flurry", "Dual Daggers"]
   },
   {
     "name": "Piercing Flurry",
@@ -46,7 +46,7 @@
     "cost": "100 Focus",
     "from": "Pig Sticker",
     "update": "Breach",
-    "tags": ["Piercing", "Flurry", "Rapier"]
+    "tags": ["Breach", "Focus", "Piercing", "Flurry", "Rapier"]
   },
 
   {
@@ -56,7 +56,7 @@
     "cost": "100 Focus",
     "from": "Brutish Cudgel",
     "update": "Breach",
-    "tags": ["Club", "Two-Handed", "Slam"]
+    "tags": ["Breach", "Focus", "Club", "Two-Handed", "Slam"]
   },
   {
     "name": "Kick Slash",
@@ -65,7 +65,7 @@
     "cost": "100 Focus",
     "from": "Rusty Khopesh",
     "update": "Breach",
-    "tags": ["Curved", "Slash"]
+    "tags": ["Breach", "Focus", "Curved", "Slash"]
   },
 
 
