@@ -9,6 +9,7 @@
     "weapon": "1H Curved Sword",
     "cost": "100 Focus",
     "from": "Scimitar",
+    "update": "Breach",
     "tags": ["Dash", "Twirl", "1H Curved Sword"]
   },
   {
@@ -17,6 +18,7 @@
     "weapon": "Knife",
     "cost": "100 Focus",
     "from": "Jackknife",
+    "update": "Breach",
     "tags": ["Dash", "Cold", "Knife"]
   },
   {
@@ -25,6 +27,7 @@
     "weapon": "Knife",
     "cost": "100 Focus",
     "from": "Hunter's Knife",
+    "update": "Breach",
     "tags": ["Dash", "Piercing", "Knife"]
   },
   {
@@ -33,6 +36,7 @@
     "weapon": "Dual Daggers",
     "cost": "50 Focus",
     "from": "Bleeder's Delight",
+    "update": "Breach",
     "tags": ["Dual", "Flurry", "Dual Daggers"]
   },
   {
@@ -41,6 +45,7 @@
     "weapon": "Rapier",
     "cost": "100 Focus",
     "from": "Pig Sticker",
+    "update": "Breach",
     "tags": ["Piercing", "Flurry", "Rapier"]
   },
 
@@ -50,6 +55,7 @@
     "weapon": "Great Club",
     "cost": "100 Focus",
     "from": "Brutish Cudgel",
+    "update": "Breach",
     "tags": ["Club", "Two-Handed", "Slam"]
   },
   {
@@ -58,6 +64,7 @@
     "weapon": "Curved Sword",
     "cost": "100 Focus",
     "from": "Rusty Khopesh",
+    "update": "Breach",
     "tags": ["Curved", "Slash"]
   },
 
