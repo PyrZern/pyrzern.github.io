@@ -45,15 +45,37 @@
   },
 
   {
-    "name": "-----",
-        "youtube": "-----",
-    "weapon": "-----",
-    "cost": "100 Focus",
-    "from": "-----",
-    "tags": ["Piercing", "Flurry", "Rapier"]
+    "name": "Buster Rift",
+        "youtube": "",
+    "weapon": "Gauntlets",
+    "cost": "125 Focus",
+    "from": "Shellguard Gauntlets",
+    "tags": ["Gauntlets", "Martial"]
+  },
+  {
+    "name": "Tremor Wave",
+        "youtube": "",
+    "weapon": "Gauntlets",
+    "cost": "50 Focus",
+    "from": "Deadfang",
+    "tags": ["Gauntlets", "Martial"]
+  },
+  {
+    "name": "Drive Break",
+        "youtube": "",
+    "weapon": "Gauntlets",
+    "cost": "50 Focus",
+    "from": "Heibach's Claws",
+    "tags": ["Gauntlets", "Martial"]
+  },
+  {
+    "name": "Plague Retch",
+        "youtube": "",
+    "weapon": "Gauntlets",
+    "cost": "50 Focus",
+    "from": "Cursed Unguis",
+    "tags": ["Gauntlets", "Martial"]
   }
-
-
 
 
     
