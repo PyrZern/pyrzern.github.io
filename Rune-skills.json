@@ -5,7 +5,7 @@
   "skills": [
   {
     "name": "Twirl Dash",
-        "youtube": "https://www.youtube.com/embed/NUQjSfxAq2M",
+    "youtube": "https://www.youtube.com/embed/NUQjSfxAq2M",
     "weapon": "1H Curved Sword",
     "cost": "100 Focus",
     "from": "Scimitar",
@@ -13,7 +13,7 @@
   },
   {
     "name": "Frost Dash",
-        "youtube": "https://www.youtube.com/embed/bKBiTJaU8hk",
+    "youtube": "https://www.youtube.com/embed/bKBiTJaU8hk",
     "weapon": "Knife",
     "cost": "100 Focus",
     "from": "Jackknife",
@@ -21,7 +21,7 @@
   },
   {
     "name": "Piercing Dash",
-        "youtube": "https://www.youtube.com/embed/lM4jAv5e1fU",
+    "youtube": "https://www.youtube.com/embed/lM4jAv5e1fU",
     "weapon": "Knife",
     "cost": "100 Focus",
     "from": "Hunter's Knife",
@@ -29,7 +29,7 @@
   },
   {
     "name": "Dual Flurry",
-        "youtube": "https://www.youtube.com/embed/fFynD5WxFRg",
+    "youtube": "https://www.youtube.com/embed/fFynD5WxFRg",
     "weapon": "Dual Daggers",
     "cost": "50 Focus",
     "from": "Bleeder's Delight",
@@ -37,7 +37,7 @@
   },
   {
     "name": "Piercing Flurry",
-        "youtube": "https://www.youtube.com/embed/u_XPbYKmaVg",
+    "youtube": "https://www.youtube.com/embed/u_XPbYKmaVg",
     "weapon": "Rapier",
     "cost": "100 Focus",
     "from": "Pig Sticker",
@@ -46,7 +46,7 @@
 
   {
     "name": "Crushing Slam",
-        "youtube": "https://www.youtube.com/embed/A7TYa6kQ-GM",
+    "youtube": "https://www.youtube.com/embed/A7TYa6kQ-GM",
     "weapon": "Great Club",
     "cost": "100 Focus",
     "from": "Brutish Cudgel",
@@ -54,7 +54,7 @@
   },
   {
     "name": "Kick Slash",
-        "youtube": "https://www.youtube.com/embed/li6f_BQNflE",
+    "youtube": "https://www.youtube.com/embed/li6f_BQNflE",
     "weapon": "Curved Sword",
     "cost": "100 Focus",
     "from": "Rusty Khopesh",
