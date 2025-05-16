@@ -70,7 +70,7 @@
     
   {
     "name": "Buster Rift",
-        "youtube": "",
+        "youtube": "https://www.youtube.com/embed/0Ver-lGuhcY",
     "weapon": "Gauntlets",
     "cost": "125 Focus",
     "from": "Shellguard Gauntlets",
@@ -78,7 +78,7 @@
   },
   {
     "name": "Tremor Wave",
-        "youtube": "",
+        "youtube": "https://www.youtube.com/embed/iP_xgOk9TL4",
     "weapon": "Gauntlets",
     "cost": "50 Focus",
     "from": "Deadfang",
@@ -86,7 +86,7 @@
   },
   {
     "name": "Drive Break",
-        "youtube": "",
+        "youtube": "https://www.youtube.com/embed/JhmXjxNZ7LY",
     "weapon": "Gauntlets",
     "cost": "50 Focus",
     "from": "Heibach's Claws",
@@ -94,7 +94,7 @@
   },
   {
     "name": "Plague Retch",
-        "youtube": "",
+        "youtube": "https://www.youtube.com/embed/QB9BDpKzAtk",
     "weapon": "Gauntlets",
     "cost": "50 Focus",
     "from": "Cursed Unguis",
