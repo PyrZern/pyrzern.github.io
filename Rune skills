@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Twirl Dash",
+    "weapon": "1H Curved Sword",
+    "cost": "100 Focus",
+    "from": "Scimitar",
+    "tags": ["Dash", "Twirl", "1H Curved Sword"],
+    "youtube": "https://www.youtube.com/embed/NUQjSfxAq2M"
+  },
+  {
+    "name": "Frost Dash",
+    "weapon": "Knife",
+    "cost": "100 Focus",
+    "from": "Jackknife",
+    "tags": ["Dash", "Cold", "Knife"],
+    "youtube": "https://www.youtube.com/embed/bKBiTJaU8hk"
+  },
+  {
+    "name": "Piercing Dash",
+    "weapon": "Knife",
+    "cost": "100 Focus",
+    "from": "Hunter's Knife",
+    "tags": ["Dash", "Piercing", "Knife"],
+    "youtube": "https://www.youtube.com/embed/L_jWHffIx5E"
+  },
+  {
+    "name": "Dual Flurry",
+    "weapon": "Dual Daggers",
+    "cost": "50 Focus",
+    "from": "Bleeder's Delight",
+    "tags": ["Dual", "Flurry", "Dual Daggers"],
+    "youtube": "https://www.youtube.com/embed/oHg5SJYRHA0"
+  },
+  {
+    "name": "Piercing Flurry",
+    "weapon": "Rapier",
+    "cost": "100 Focus",
+    "from": "Pig Sticker",
+    "tags": ["Piercing", "Flurry", "Rapier"],
+    "youtube": "https://www.youtube.com/embed/u_XPbYKmaVg"
+  }
+]
