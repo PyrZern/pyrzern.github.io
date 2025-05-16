@@ -45,6 +45,30 @@
   },
 
   {
+    "name": "Crushing Slam",
+        "youtube": "https://www.youtube.com/embed/A7TYa6kQ-GM",
+    "weapon": "Great Club",
+    "cost": "100 Focus",
+    "from": "Brutish Cudgel",
+    "tags": ["Club", "Two-Handed", "Slam"]
+  },
+  {
+    "name": "Kick Slash",
+        "youtube": "https://www.youtube.com/embed/u_li6f_BQNflE",
+    "weapon": "Curved Sword",
+    "cost": "100 Focus",
+    "from": "Rusty Khopesh",
+    "tags": ["Curved", "Slash"]
+  },
+
+
+
+
+
+
+
+    
+  {
     "name": "Buster Rift",
         "youtube": "",
     "weapon": "Gauntlets",
