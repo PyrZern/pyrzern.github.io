@@ -56,7 +56,7 @@
     "type": "Curved Sword",
     "cost": "100 Focus",
     "source": "Rusty Khopesh",
-    "tags": ["Breach", "Focus", "Curved", "Slash"]
+    "tags": ["Breach", "Focus", "Curved", "Slash", "Kick"]
   },
 
   {
@@ -95,76 +95,76 @@
 
 
   {
-    "Rune": "Arrow",
+    "rune": "Arrow",
     "youtube": "",
-    "Type": "Bow",
-    "Cost": "10 Focus",
-    "Source": "Unknown",
-    "Tags": ["Breach", "Focus", "Bow", "Ranged"]
+    "type": "Bow",
+    "cost": "10 Focus",
+    "source": "Unknown",
+    "tags": ["Breach", "Focus", "Bow", "Ranged"]
   },
   {
-    "Rune": "Cone Shot",
+    "rune": "Cone Shot",
     "youtube": "",
-    "Type": "Bow",
-    "Cost": "100 Focus",
-    "Source": "Yew Longbow",
-    "Tags": ["Breach", "Focus", "Bow", "Ranged"]
+    "type": "Bow",
+    "cost": "100 Focus",
+    "source": "Yew Longbow",
+    "tags": ["Breach", "Focus", "Bow", "Ranged"]
   },
   {
-    "Rune": "Evasive Shot",
+    "rune": "Evasive Shot",
     "youtube": "",
-    "Type": "Bow",
-    "Cost": "50 Focus",
-    "Source": "Unknown",
-    "Tags": ["Breach", "Focus", "Bow", "Ranged"]
+    "type": "Bow",
+    "cost": "50 Focus",
+    "source": "Unknown",
+    "tags": ["Breach", "Focus", "Bow", "Ranged"]
   },
   {
-    "Rune": "Fire Arrow",
+    "rune": "Fire Arrow",
     "youtube": "",
-    "Type": "Bow",
-    "Cost": "20 Focus",
-    "Source": "Unknown",
-    "Tags": ["Breach", "Focus", "Bow", "Ranged"]
+    "type": "Bow",
+    "cost": "20 Focus",
+    "source": "Unknown",
+    "tags": ["Breach", "Focus", "Bow", "Ranged"]
   },
   {
-    "Rune": "Ice Arrow",
+    "rune": "Ice Arrow",
     "youtube": "",
-    "Type": "Bow",
-    "Cost": "20 Focus",
-    "Source": "Unknown",
-    "Tags": ["Breach", "Focus", "Bow", "Ranged"]
+    "type": "Bow",
+    "cost": "20 Focus",
+    "source": "Unknown",
+    "tags": ["Breach", "Focus", "Bow", "Ranged"]
   },
   {
-    "Rune": "Knockout Shot",
+    "rune": "Knockout Shot",
     "youtube": "",
-    "Type": "Bow",
-    "Cost": "100 Focus",
-    "Source": "Pale Ash",
-    "Tags": ["Breach", "Focus", "Bow", "Ranged"]
+    "type": "Bow",
+    "cost": "100 Focus",
+    "source": "Pale Ash",
+    "tags": ["Breach", "Focus", "Bow", "Ranged"]
   },
   {
-    "Rune": "Lightning Arrow",
+    "rune": "Lightning Arrow",
     "youtube": "",
-    "Type": "Bow",
-    "Cost": "20 Focus",
-    "Source": "Unknown",
-    "Tags": ["Breach", "Focus", "Bow", "Ranged"]
+    "type": "Bow",
+    "cost": "20 Focus",
+    "source": "Unknown",
+    "tags": ["Breach", "Focus", "Bow", "Ranged"]
   },
   {
-    "Rune": "Multi Shot",
+    "rune": "Multi Shot",
     "youtube": "",
-    "Type": "Bow",
-    "Cost": "100 Focus",
-    "Source": "Short Bow",
-    "Tags": ["Breach", "Focus", "Bow", "Ranged"]
+    "type": "Bow",
+    "cost": "100 Focus",
+    "source": "Short Bow",
+    "tags": ["Breach", "Focus", "Bow", "Ranged"]
   },
   {
-    "Rune": "Plague Arrow",
+    "rune": "Plague Arrow",
     "youtube": "",
-    "Type": "Bow",
-    "Cost": "20 Focus",
-    "Source": "Unknown",
-    "Tags": ["Breach", "Focus", "Bow", "Ranged"]
+    "type": "Bow",
+    "cost": "20 Focus",
+    "source": "Unknown",
+    "tags": ["Breach", "Focus", "Bow", "Ranged"]
   },
 
 
@@ -174,7 +174,7 @@
     "rune": "Return",
     "youtube": "",
     "type": "Any Weapon",
-    "cost": "XYZ Focus",
+    "cost": "Unknown",
     "source": "Vendor - Eleanor",
     "tags": ["Breach", "Focus", "Utility"]
   },    
@@ -182,7 +182,7 @@
     "rune": "Repair",
     "youtube": "",
     "type": "Any Weapon",
-    "cost": "XYZ Focus",
+    "cost": "Unknown",
     "source": "Vendor - Eleanor",
     "tags": ["Breach", "Focus", "Utility"]
   },    
@@ -214,7 +214,7 @@
     "rune": "Channel",
     "youtube": "",
     "type": "Any Weapon",
-    "cost": "XYZ Focus",
+    "cost": "Unknown",
     "source": "Vendor - Eleanor",
     "tags": ["Breach", "Focus", "Channel", "Utility"]
   },
@@ -270,7 +270,7 @@
     "rune": "Scream",
     "youtube": "",
     "type": "Any Weapon",
-    "cost": "XYZ Focus",
+    "cost": "Unknown",
     "source": "Vendor - Eleanor",
     "tags": ["Breach", "Focus"]
   },    
