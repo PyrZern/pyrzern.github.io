@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-05-17",
+  "lastUpdated": "2025-05-19",
 
   "skills": [
   {
@@ -45,10 +45,10 @@
   {
     "rune": "Crushing Slam",
     "youtube": "https://www.youtube.com/embed/A7TYa6kQ-GM",
-    "type": "Great Club",
+    "type": "Greatclub",
     "cost": "100 Focus",
     "source": "Brutish Cudgel",
-    "tags": ["Breach", "Focus", "Two-Handed", "Club", "Slam"]
+    "tags": ["Breach", "Focus", "Two-Handed", "Greatclub", "Slam"]
   },
   {
     "rune": "Kick Slash",
@@ -78,7 +78,7 @@
   {
     "rune": "Wallbreaker",
     "youtube": "https://www.youtube.com/embed/bWejEJdBPQo",
-    "type": "Great Sword",
+    "type": "Greatsword",
     "cost": "100 Focus",
     "source": "Summer's Sting",
     "tags": ["Breach", "Focus", "Two-Handed", "Greatsword"]
@@ -86,7 +86,7 @@
   {
     "rune": "Spiral Crash",
     "youtube": "https://www.youtube.com/embed/4Ua_w3MtopI",
-    "type": "Great Axe",
+    "type": "Greataxe",
     "cost": "50 Focus",
     "source": "Cerim's Skyrend",
     "tags": ["Breach", "Focus", "Two-Handed", "Axe", "Greataxe", "Spiral", "Crash"]
@@ -288,7 +288,7 @@
     "type": "Any Weapon",
     "cost": "50 Focus",
     "source": "Unknown",
-    "tags": ["Breach", "Focus", "Electric", "Enchantment", "Buff"]
+    "tags": ["Breach", "Focus", "Lightning", "Enchantment", "Buff"]
   },
   {
     "rune": "Cold Enchantment",
@@ -370,7 +370,7 @@
   {
     "rune": "Relentless Cleave",
     "youtube": "",
-    "type": "Great Axe",
+    "type": "Greataxe",
     "cost": "100 Focus",
     "source": "Boarskin Reaper",
     "tags": ["Breach", "Focus", "Two-Handed", "Greataxe", "Cleave"]
@@ -378,7 +378,7 @@
   {
     "rune": "Raging Spiral",
     "youtube": "",
-    "type": "Great Axe",
+    "type": "Greataxe",
     "cost": "100 Focus",
     "source": "Midnight Shredder",
     "tags": ["Breach", "Focus", "Two-Handed", "Greataxe", "Spiral"]
@@ -386,11 +386,68 @@
   {
     "rune": "Breaker Thrust",
     "youtube": "",
-    "type": "Great Axe",
+    "type": "Greataxe",
     "cost": "50 Focus",
     "source": "Harvester’s Dread",
     "tags": ["Breach", "Focus", "Two-Handed", "Greataxe", "Thrust"]
   },
+  {
+    "rune": "Fire Whirlwind",
+    "youtube": "https://www.youtube.com/embed/wPtoC62DLRY",
+    "type": "Greataxe",
+    "cost": "100 Focus",
+    "source": "Huro's Great Axe",
+    "tags": ["Breach", "Focus", "Two-Handed", "Greataxe", "Fire", "Whirlwind"]
+    },
+  {
+    "rune": "Lightning Assault",
+    "youtube": "https://www.youtube.com/embed/fYl8mQUHI5g",
+    "type": "Greataxe",
+    "cost": "100 Focus",
+    "source": "Gilded Twibill",
+    "tags": ["Breach", "Focus", "Two-Handed", "Greataxe", "Lightning", "Assault"]
+  },
+  {
+    "rune": "Relentless Cleave",
+    "youtube": "https://www.youtube.com/embed/n2k_fSe0aXc",
+    "type": "Greataxe",
+    "cost": "100 Focus",
+    "source": "Boarskin Reaper",
+    "tags": ["Breach", "Focus", "Two-Handed", "Greataxe", "Cleave"]
+  },
+  {
+    "rune": "Ground Slam",
+    "youtube": "https://www.youtube.com/embed/qp6q7hE1sC8",
+    "type": "Greatsword",
+    "cost": "100 Focus",
+    "source": "Festering Earth",
+    "tags": ["Breach", "Focus", "Two-Handed", "Greatsword", "Slam"]
+  },
+  {
+    "rune": "Limit Break",
+    "youtube": "https://www.youtube.com/embed/DC9flZwVTTw",
+    "type": "Greatsword",
+    "cost": "100 Focus",
+    "source": "Gnarled Saw",
+    "tags": ["Breach", "Focus", "Two-Handed", "Greatsword", "Slam"]
+  },    
+  {
+    "rune": "Pestilent Recoil",
+    "youtube": "https://www.youtube.com/embed/atEurOZJM6c",
+    "type": "Greatsword",
+    "cost": "100 Focus",
+    "source": "Sieger",
+    "tags": ["Breach", "Focus", "Two-Handed", "Greatsword", "Plague"]
+  },
+  {
+    "rune": "Slashing Spin",
+    "youtube": "https://www.youtube.com/embed/8BeZ7ngTb50",
+    "type": "Greatsword",
+    "cost": "100 Focus",
+    "source": "Freiheit",
+    "tags": ["Breach", "Focus", "Two-Handed", "Greatsword", "Spin"]
+  },
+    
   {
     "rune": "Rip and Tear",
     "youtube": "",
@@ -402,7 +459,7 @@
   {
     "rune": "Tremor Slam",
     "youtube": "",
-    "type": "Great Sword",
+    "type": "Greatsword",
     "cost": "100 Focus",
     "source": "Mayhem",
     "tags": ["Breach", "Focus", "Two-Handed", "Greatsword", "Slam"]
@@ -508,7 +565,7 @@
   {
     "rune": "Drone Trap",
     "youtube": "",
-    "type": "Unknown",
+    "type": "Any Weapon",
     "cost": "50 Focus",
     "source": "Vendor - Illaria",
     "tags": ["Unfinished", "Breach", "Martial", "Throw", "Trap", "Fire", "Focus"]
@@ -545,7 +602,7 @@
     "type": "Gauntlets",
     "cost": "50 Focus",
     "source": "Cursed Unguis",
-    "tags": ["Breach", "Gauntlets", "Two-Handed", "Martial"]
+    "tags": ["Breach", "Gauntlets", "Two-Handed", "Martial", "Plague"]
   },
 
   {
@@ -554,7 +611,7 @@
     "type": "Gauntlets",
     "cost": "133 Focus",
     "source": "Crystal Fist",
-    "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial"]
+    "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial", "Rush"]
   },
   {
     "rune": "Cyclone Kick",
