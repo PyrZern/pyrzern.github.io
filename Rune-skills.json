@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-05-19",
+  "lastUpdated": "2025-05-17",
 
   "skills": [
   {
@@ -366,14 +366,6 @@
     "cost": "150 Focus",
     "source": "Shrike Tree",
     "tags": ["Breach", "Focus", "Mace", "Whirl", "Lightning"]
-  },
-  {
-    "rune": "Relentless Cleave",
-    "youtube": "",
-    "type": "Greataxe",
-    "cost": "100 Focus",
-    "source": "Boarskin Reaper",
-    "tags": ["Breach", "Focus", "Two-Handed", "Greataxe", "Cleave"]
   },
   {
     "rune": "Raging Spiral",
