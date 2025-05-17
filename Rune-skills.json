@@ -541,18 +541,18 @@
   {
     "rune": "Throw Axe",
     "youtube": "",
-    "type": "Axe",
+    "type": "Any Weapon",
     "cost": "20 Focus",
     "source": "Vendor - Illaria", 
-    "tags": ["Unfinished", "Breach", "Gauntlets", "Martial", "Throw", "Focus"]
+    "tags": ["Unfinished", "Breach", "Martial", "Throw", "Focus"]
   },
   {
     "rune": "Throw Knife",
     "youtube": "",
-    "type": "Unknown",
+    "type": "Any Weapon",
     "cost": "25 Focus",
     "source": "Vendor - Illaria",
-    "tags": ["Unfinished", "Breach", "Gauntlets", "Martial", "Throw", "Focus"]
+    "tags": ["Unfinished", "Breach", "Martial", "Throw", "Focus"]
   },
   {
     "rune": "Drone Trap",
@@ -562,7 +562,40 @@
     "source": "Vendor - Illaria",
     "tags": ["Unfinished", "Breach", "Martial", "Throw", "Trap", "Fire", "Focus"]
   },
+  {
+    "rune": "Plague Throw",
+    "youtube": "",
+    "type": "Any One-Handed Weapon",
+    "cost": "Unknown",
+    "source": "Siren's Rapier Thing",
+    "tags": ["Unfinished", "Breach", "Throw", "One-Handed", "Plague", "Focus"]
+  },
+  {
+    "rune": "Fire Throw",
+    "youtube": "",
+    "type": "Any One-Handed Weapon",
+    "cost": "Unknown",
+    "source": "Unknown",
+    "tags": ["Unfinished", "Breach", "Throw", "One-Handed", "Fire", "Focus"]
+  },
+  {
+    "rune": "Ice Throw",
+    "youtube": "",
+    "type": "Any One-Handed Weapon",
+    "cost": "Unknown",
+    "source": "Unknown",
+    "tags": ["Unfinished", "Breach", "Throw", "One-Handed", "Cold", "Focus"]
+  },
+  {
+    "rune": "Electric/Lightning Throw",
+    "youtube": "",
+    "type": "Any One-Handed Weapon",
+    "cost": "Unknown",
+    "source": "Unknown",
+    "tags": ["Unfinished", "Breach", "Throw", "One-Handed", "Electric", "Focus"]
+  },
 
+    
     
   {
     "rune": "Buster Rift",
