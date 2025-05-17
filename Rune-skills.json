@@ -107,7 +107,81 @@
 
 
     
+  {
+    "name": "Swipe Kick",
+    "youtube": "",
+    "weapon": "Gauntlets",
+    "cost": "40 Stamina",
+    "from": "Unknown",
+    "update": "Breach",
+    "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial", "Stamina", "Kick"]
+  },
+  {
+    "name": "Frontflip Kick",
+    "youtube": "",
+    "weapon": "Gauntlets",
+    "cost": "32 Stamina",
+    "from": "Unknown",
+    "update": "Breach",
+    "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial", "Stamina", "Kick"]
+  },
+  {
+    "name": "Dropkick",
+    "youtube": "",
+    "weapon": "Gauntlets",
+    "cost": "42 Stamina",
+    "from": "",
+    "update": "Breach",
+    "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial", "Stamina", "Kick"]
+  },
+  {
+    "name": "Turnback Kick",
+    "youtube": "",
+    "weapon": "Gauntlets",
+    "cost": "30 Stamina",
+    "from": "",
+    "update": "Breach",
+    "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial", "Stamina", "Kick"]
+  },
+    
+  {
+    "name": "Throw",
+    "youtube": "",
+    "weapon": "Unknown",
+    "cost": "",
+    "from": "",
+    "update": "Breach",
+    "tags": ["Unfinished", "Breach", "Gauntlets", "Martial", "Throw", "Focus"]]
+  },
+  {
+    "name": "Throw Axe",
+    "youtube": "",
+    "weapon": "Unknown",
+    "cost": "20 Focus",
+    "from": "",
+    "update": "Breach",
+    "tags": ["Unfinished", "Breach", "Gauntlets", "Martial", "Throw", "Focus"]
+  },
+  {
+    "name": "Throw Knife",
+    "youtube": "",
+    "weapon": "Unknown",
+    "cost": "25 Focus",
+    "from": "",
+    "update": "Breach",
+    "tags": ["Unfinished", "Breach", "Gauntlets", "Martial", "Throw", "Focus"]
+  },
+  {
+    "name": "Drone Trap",
+    "youtube": "",
+    "weapon": "Unknown",
+    "cost": "50 Focus",
+    "from": "",
+    "update": "Breach",
+    "tags": ["Unfinished", "Breach", "Martial", "Throw", "Trap", "Fire", "Focus"]
+  },
 
+    
   {
     "name": "Buster Rift",
     "youtube": "https://www.youtube.com/embed/0Ver-lGuhcY",
