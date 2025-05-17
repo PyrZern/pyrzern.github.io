@@ -89,7 +89,7 @@
     "weapon": "Great Axe",
     "cost": "50 Focus",
     "source": "Cerim's Skyrend",
-    "tags": ["Unfinished", "Breach", "Focus", "Two-Handed", "Axe", "Greataxe", "Spira;", "Crash"]
+    "tags": ["Unfinished", "Breach", "Focus", "Two-Handed", "Axe", "Greataxe", "Spiral", "Crash"]
   },
 
 
@@ -117,7 +117,7 @@
     "youtube": "",
     "weapon": "Gauntlets",
     "cost": "42 Stamina",
-    "source": "",
+    "source": "Unknown",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial", "Stamina", "Kick"]
   },
   {
@@ -125,7 +125,7 @@
     "youtube": "",
     "weapon": "Gauntlets",
     "cost": "30 Stamina",
-    "source": "",
+    "source": "Unknown",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial", "Stamina", "Kick"]
   },
     
@@ -133,17 +133,16 @@
     "name": "Throw",
     "youtube": "",
     "weapon": "Unknown",
-    "cost": "",
-    "source": "",
-    "tags": ["Unfinished", "Breach", "Gauntlets", "Martial", "Throw", "Focus"]]
+    "cost": "Unknown",
+    "source": "Unknown",
+    "tags": ["Unfinished", "Breach", "Gauntlets", "Martial", "Throw", "Focus"]
   },
   {
     "name": "Throw Axe",
     "youtube": "",
     "weapon": "Unknown",
     "cost": "20 Focus",
-    "source": "",
-
+    "source": "Unknown",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Martial", "Throw", "Focus"]
   },
   {
@@ -151,7 +150,7 @@
     "youtube": "",
     "weapon": "Unknown",
     "cost": "25 Focus",
-    "source": "",
+    "source": "Unknown",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Martial", "Throw", "Focus"]
   },
   {
@@ -159,7 +158,7 @@
     "youtube": "",
     "weapon": "Unknown",
     "cost": "50 Focus",
-    "source": "",
+    "source": "Unknown",
     "tags": ["Unfinished", "Breach", "Martial", "Throw", "Trap", "Fire", "Focus"]
   },
 
