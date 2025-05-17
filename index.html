@@ -150,27 +150,27 @@ iframe {
 
     function createSkillCard(skill, isSmall = false) {
       const card = document.createElement('div');
-      card.className = 'skill-card';
+      card.classrune = 'skill-card';
 
       if (isSmall) {
         card.innerHTML = `
-          <h3>${skill.name}</h3>
+          <h3>${skill.rune}</h3>
           <div class="skill-info">
-            <p><strong>Weapon:</strong> ${skill.weapon}</p>
+            <p><strong>type:</strong> ${skill.type}</p>
             <p><strong>Cost:</strong> ${skill.cost}</p>
             <p><strong>From:</strong> ${skill.from}</p>
           </div>
         `;
       } else {
         card.innerHTML = `
-          <h3>${skill.name}</h3>
+          <h3>${skill.rune}</h3>
           <iframe
             src="${skill.youtube}"
-            title="${skill.name} video"
+            title="${skill.rune} video"
             allowfullscreen
           ></iframe>
           <div class="skill-info">
-            <p><strong>Weapon:</strong> ${skill.weapon}</p>
+            <p><strong>type:</strong> ${skill.type}</p>
             <p><strong>Cost:</strong> ${skill.cost}</p>
             <p><strong>From:</strong> ${skill.from}</p>
           </div>
@@ -208,7 +208,7 @@ iframe {
       const nonmatching = [];
 
       skills.forEach(skill => {
-        const haystack = `${skill.name} ${skill.weapon} ${skill.tags.join(" ")}`.toLowerCase();
+        const haystack = `${skill.rune} ${skill.type} ${skill.tags.join(" ")}`.toLowerCase();
         const matchesText = haystack.includes(lowerFilter);
         const matchesTag = lowerTag === "" || skill.tags.some(tag => tag.toLowerCase() === lowerTag);
 
