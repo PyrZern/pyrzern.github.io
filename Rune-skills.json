@@ -147,7 +147,7 @@
     "type": "Any Weapon",
     "cost": "100 Focus",
     "source": "Vendor - Eleanor",
-    "tags": ["Breach", "Focus", "Enchantment", "Buff", "Poise"]
+    "tags": ["Breach", "Focus", "Buff", "Poise"]
   },
   {
     "rune": "Focus Halo",
