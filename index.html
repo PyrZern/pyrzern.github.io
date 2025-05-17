@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title> No Rest For The Wicked - Rune Skill Browser </title>
+  <title>No Rest For The Wicked - Rune Skill Browser</title>
 
 
   <style>
@@ -127,7 +127,7 @@ iframe {
 <body>
 
   <h1>NRFTW Rune Skill Browser</h1>
-  <p>Fansite by PY5RA</p>
+  <p>by PY5RA</p>
   <p id="entry-count">Total Entries: </p>
   <p id="last-update">Last Updated: </p>
 
@@ -150,27 +150,27 @@ iframe {
 
     function createSkillCard(skill, isSmall = false) {
       const card = document.createElement('div');
-      card.classrune = 'skill-card';
+      card.className = 'skill-card';
 
       if (isSmall) {
         card.innerHTML = `
-          <h3>${skill.rune}</h3>
+          <h3>${skill.name}</h3>
           <div class="skill-info">
-            <p><strong>type:</strong> ${skill.type}</p>
+            <p><strong>Weapon:</strong> ${skill.weapon}</p>
             <p><strong>Cost:</strong> ${skill.cost}</p>
             <p><strong>From:</strong> ${skill.from}</p>
           </div>
         `;
       } else {
         card.innerHTML = `
-          <h3>${skill.rune}</h3>
+          <h3>${skill.name}</h3>
           <iframe
             src="${skill.youtube}"
-            title="${skill.rune} video"
+            title="${skill.name} video"
             allowfullscreen
           ></iframe>
           <div class="skill-info">
-            <p><strong>type:</strong> ${skill.type}</p>
+            <p><strong>Weapon:</strong> ${skill.weapon}</p>
             <p><strong>Cost:</strong> ${skill.cost}</p>
             <p><strong>From:</strong> ${skill.from}</p>
           </div>
@@ -208,7 +208,7 @@ iframe {
       const nonmatching = [];
 
       skills.forEach(skill => {
-        const haystack = `${skill.rune} ${skill.type} ${skill.tags.join(" ")}`.toLowerCase();
+        const haystack = `${skill.name} ${skill.weapon} ${skill.tags.join(" ")}`.toLowerCase();
         const matchesText = haystack.includes(lowerFilter);
         const matchesTag = lowerTag === "" || skill.tags.some(tag => tag.toLowerCase() === lowerTag);
 
