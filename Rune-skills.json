@@ -93,6 +93,110 @@
   },
 
 
+    {
+    "rune": "Return",
+    "youtube": "",
+    "type": "Any Weapon",
+    "cost": "XYZ Focus",
+    "source": "Vendor - Eleanor",
+    "tags": ["Breach", "Focus", "Utility"]
+  },    
+    {
+    "rune": "Repair",
+    "youtube": "",
+    "type": "Any Weapon",
+    "cost": "XYZ Focus",
+    "source": "Vendor - Eleanor",
+    "tags": ["Breach", "Focus", "Utility"]
+  },    
+    {
+    "rune": "Illuminate",
+    "youtube": "",
+    "type": "Any Weapon",
+    "cost": "25 Focus",
+    "source": "Vendor - Eleanor",
+    "tags": ["Breach", "Focus", "Utility"]
+  },
+   {
+    "rune": "Blink",
+    "youtube": "",
+    "type": "Any Weapon",
+    "cost": "25 Focus",
+    "source": "Vendor - Eleanor",
+    "tags": ["Breach", "Focus", "Utility"]
+  },
+  {
+    "rune": "Heal Aura",
+    "youtube": "",
+    "type": "Any Weapon",
+    "cost": "25 Focus",
+    "source": "Vendor - Eleanor",
+    "tags": ["Breach", "Focus", "Channel", "Utility", "Healing", "Aura", "AoE"]
+  },
+  {
+    "rune": "Channel",
+    "youtube": "",
+    "type": "Any Weapon",
+    "cost": "XYZ Focus",
+    "source": "Vendor - Eleanor",
+    "tags": ["Breach", "Focus", "Channel", "Utility"]
+  },
+    {
+    "rune": "Poise Shield",
+    "youtube": "",
+    "type": "Any Weapon",
+    "cost": "100 Focus",
+    "source": "Vendor - Eleanor",
+    "tags": ["Breach", "Focus", "Enchantment", "Buff", "Poise"]
+  },
+  {
+    "rune": "Focus Halo",
+    "youtube": "",
+    "type": "Any Weapon",
+    "cost": "100 Focus",
+    "source": "Vendor - Eleanor",
+    "tags": ["Breach", "Focus", "Buff"]
+  },
+  {
+    "rune": "Stamina Wellspring",
+    "youtube": "",
+    "type": "Any Weapon",
+    "cost": "100 Focus",
+    "source": "Vendor - Eleanor",
+    "tags": ["Breach", "Focus", "Buff", "Stamina"]
+  },
+  {
+    "rune": "Damage Surge",
+    "youtube": "",
+    "type": "Any Weapon",
+    "cost": "100 Focus",
+    "source": "Vendor - Eleanor",
+    "tags": ["Breach", "Focus", "Buff"]
+  },
+  {
+    "rune": "Pulse Of Health",
+    "youtube": "",
+    "type": "Any Weapon",
+    "cost": "100 Focus",
+    "source": "Vendor - Eleanor",
+    "tags": ["Breach", "Focus", "Buff"]
+  },    
+  {
+    "rune": "Thorns",
+    "youtube": "",
+    "type": "Any Weapon",
+    "cost": "100 Focus",
+    "source": "Vendor - Eleanor",
+    "tags": ["Breach", "Focus", "Buff"]
+  },
+  {
+    "rune": "Scream",
+    "youtube": "",
+    "type": "Any Weapon",
+    "cost": "XYZ Focus",
+    "source": "Vendor - Eleanor",
+    "tags": ["Breach", "Focus"]
+  },    
   {
     "rune": "Plague Enchantment",
     "youtube": "",
@@ -101,6 +205,34 @@
     "source": "Shroud Cleaver",
     "tags": ["Breach", "Focus", "Plague", "Enchantment", "Buff"]
   },
+  {
+    "rune": "Electric Enchantment",
+    "youtube": "",
+    "type": "Axe",
+    "cost": "50 Focus",
+    "source": "Shroud Cleaver",
+    "tags": ["Breach", "Focus", "Electric", "Enchantment", "Buff"]
+  },
+  {
+    "rune": "Cold Enchantment",
+    "youtube": "",
+    "type": "Axe",
+    "cost": "50 Focus",
+    "source": "Shroud Cleaver",
+    "tags": ["Breach", "Focus", "Cold", "Enchantment", "Buff"]
+  },
+  {
+    "rune": "Heat Enchantment",
+    "youtube": "",
+    "type": "Axe",
+    "cost": "50 Focus",
+    "source": "Shroud Cleaver",
+    "tags": ["Breach", "Focus", "Heat", "Enchantment", "Buff"]
+  },
+
+
+
+    
   {
     "rune": "Advancing Flurry",
     "youtube": "",
