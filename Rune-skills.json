@@ -140,9 +140,9 @@
   {
     "rune": "Throw Axe",
     "youtube": "",
-    "type": "Unknown",
+    "type": "Axe",
     "cost": "20 Focus",
-    "source": "Vendor - Illaria",
+    "source": "Vendor - Illaria", 
     "tags": ["Unfinished", "Breach", "Gauntlets", "Martial", "Throw", "Focus"]
   },
   {
