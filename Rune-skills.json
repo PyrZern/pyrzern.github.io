@@ -175,14 +175,6 @@
     "tags": ["Breach", "Focus", "Two-Handed", "Greataxe", "Spiral"]
   },
   {
-    "rune": "Spiral Crush",
-    "youtube": "",
-    "type": "Great Axe",
-    "cost": "50 Focus",
-    "source": "Cerim’s Skyrend",
-    "tags": ["Breach", "Focus", "Two-Handed", "Greataxe", "Spiral"]
-  },
-  {
     "rune": "Breaker Thrust",
     "youtube": "",
     "type": "Great Axe",
@@ -190,7 +182,6 @@
     "source": "Harvester’s Dread",
     "tags": ["Breach", "Focus", "Two-Handed", "Greataxe", "Thrust"]
   },
-
   {
     "rune": "Rip and Tear",
     "youtube": "",
