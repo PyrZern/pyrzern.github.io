@@ -7,8 +7,7 @@
     "youtube": "https://www.youtube.com/embed/NUQjSfxAq2M",
     "weapon": "Curved Sword",
     "cost": "100 Focus",
-    "from": "Scimitar",
-    "update": "Breach",
+    "source": "Scimitar",
     "tags": ["Breach", "Focus", "Dash", "Twirl", "Curved"]
   },
   {
@@ -16,8 +15,7 @@
     "youtube": "https://www.youtube.com/embed/bKBiTJaU8hk",
     "weapon": "Knife",
     "cost": "100 Focus",
-    "from": "Jackknife",
-    "update": "Breach",
+    "source": "Jackknife",
     "tags": ["Breach", "Focus", "Dash", "Cold", "Knife"]
   },
   {
@@ -25,8 +23,7 @@
     "youtube": "https://www.youtube.com/embed/lM4jAv5e1fU",
     "weapon": "Knife",
     "cost": "100 Focus",
-    "from": "Hunter's Knife",
-    "update": "Breach",
+    "source": "Hunter's Knife",
     "tags": ["Breach", "Focus", "Dash", "Piercing", "Knife"]
   },
   {
@@ -34,8 +31,7 @@
     "youtube": "https://www.youtube.com/embed/fFynD5WxFRg",
     "weapon": "Dual Daggers",
     "cost": "50 Focus",
-    "from": "Bleeder's Delight",
-    "update": "Breach",
+    "source": "Bleeder's Delight",
     "tags": ["Breach", "Focus", "Two-Handed", "Dual", "Flurry", "Dual Daggers"]
   },
   {
@@ -43,8 +39,7 @@
     "youtube": "https://www.youtube.com/embed/u_XPbYKmaVg",
     "weapon": "Rapier",
     "cost": "100 Focus",
-    "from": "Pig Sticker",
-    "update": "Breach",
+    "source": "Pig Sticker",
     "tags": ["Breach", "Focus", "Piercing", "Flurry", "Rapier"]
   },
   {
@@ -52,8 +47,7 @@
     "youtube": "https://www.youtube.com/embed/A7TYa6kQ-GM",
     "weapon": "Great Club",
     "cost": "100 Focus",
-    "from": "Brutish Cudgel",
-    "update": "Breach",
+    "source": "Brutish Cudgel",
     "tags": ["Breach", "Focus", "Two-Handed", "Club", "Slam"]
   },
   {
@@ -61,8 +55,7 @@
     "youtube": "https://www.youtube.com/embed/li6f_BQNflE",
     "weapon": "Curved Sword",
     "cost": "100 Focus",
-    "from": "Rusty Khopesh",
-    "update": "Breach",
+    "source": "Rusty Khopesh",
     "tags": ["Breach", "Focus", "Curved", "Slash"]
   },
 
@@ -71,8 +64,7 @@
     "youtube": "",
     "weapon": "Scythe",
     "cost": "100 Focus",
-    "from": "Soul Thresher",
-    "update": "Breach",
+    "source": "Soul Thresher",
     "tags": ["Unfinished", "Breach", "Focus", "Two-Handed", "Scythe", "Cleave"]
   },
   {
@@ -80,8 +72,7 @@
     "youtube": "",
     "weapon": "Curved Greatsword",
     "cost": "50 Focus",
-    "from": "Divine Scimitar",
-    "update": "Breach",
+    "source": "Divine Scimitar",
     "tags": ["Unfinished", "Breach", "Focus", "Two-Handed", "Curved", "Greatsword", "Swirl"]
   },
   {
@@ -89,8 +80,7 @@
     "youtube": "",
     "weapon": "Great Sword",
     "cost": "100 Focus",
-    "from": "Summer's Sting",
-    "update": "Breach",
+    "source": "Summer's Sting",
     "tags": ["Unfinished", "Breach", "Focus", "Two-Handed", "Greatsword"]
   },
   {
@@ -98,8 +88,7 @@
     "youtube": "",
     "weapon": "Great Axe",
     "cost": "50 Focus",
-    "from": "Cerim's Skyrend",
-    "update": "Breach",
+    "source": "Cerim's Skyrend",
     "tags": ["Unfinished", "Breach", "Focus", "Two-Handed", "Axe", "Greataxe", "Spira;", "Crash"]
   },
 
@@ -112,8 +101,7 @@
     "youtube": "",
     "weapon": "Gauntlets",
     "cost": "40 Stamina",
-    "from": "Unknown",
-    "update": "Breach",
+    "source": "Unknown",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial", "Stamina", "Kick"]
   },
   {
@@ -121,8 +109,7 @@
     "youtube": "",
     "weapon": "Gauntlets",
     "cost": "32 Stamina",
-    "from": "Unknown",
-    "update": "Breach",
+    "source": "Unknown",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial", "Stamina", "Kick"]
   },
   {
@@ -130,8 +117,7 @@
     "youtube": "",
     "weapon": "Gauntlets",
     "cost": "42 Stamina",
-    "from": "",
-    "update": "Breach",
+    "source": "",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial", "Stamina", "Kick"]
   },
   {
@@ -139,8 +125,7 @@
     "youtube": "",
     "weapon": "Gauntlets",
     "cost": "30 Stamina",
-    "from": "",
-    "update": "Breach",
+    "source": "",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial", "Stamina", "Kick"]
   },
     
@@ -149,8 +134,7 @@
     "youtube": "",
     "weapon": "Unknown",
     "cost": "",
-    "from": "",
-    "update": "Breach",
+    "source": "",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Martial", "Throw", "Focus"]]
   },
   {
@@ -158,8 +142,8 @@
     "youtube": "",
     "weapon": "Unknown",
     "cost": "20 Focus",
-    "from": "",
-    "update": "Breach",
+    "source": "",
+
     "tags": ["Unfinished", "Breach", "Gauntlets", "Martial", "Throw", "Focus"]
   },
   {
@@ -167,8 +151,7 @@
     "youtube": "",
     "weapon": "Unknown",
     "cost": "25 Focus",
-    "from": "",
-    "update": "Breach",
+    "source": "",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Martial", "Throw", "Focus"]
   },
   {
@@ -176,8 +159,7 @@
     "youtube": "",
     "weapon": "Unknown",
     "cost": "50 Focus",
-    "from": "",
-    "update": "Breach",
+    "source": "",
     "tags": ["Unfinished", "Breach", "Martial", "Throw", "Trap", "Fire", "Focus"]
   },
 
@@ -187,8 +169,7 @@
     "youtube": "https://www.youtube.com/embed/0Ver-lGuhcY",
     "weapon": "Gauntlets",
     "cost": "125 Focus",
-    "from": "Shellguard Gauntlets",
-    "update": "Breach",
+    "source": "Shellguard Gauntlets",
     "tags": ["Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
   {
@@ -196,8 +177,7 @@
     "youtube": "https://www.youtube.com/embed/iP_xgOk9TL4",
     "weapon": "Gauntlets",
     "cost": "50 Focus",
-    "from": "Deadfang",
-    "update": "Breach",
+    "source": "Deadfang",
     "tags": ["Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
   {
@@ -205,8 +185,7 @@
     "youtube": "https://www.youtube.com/embed/JhmXjxNZ7LY",
     "weapon": "Gauntlets",
     "cost": "50 Focus",
-    "from": "Heibach's Claws",
-    "update": "Breach",
+    "source": "Heibach's Claws",
     "tags": ["Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
   {
@@ -214,8 +193,7 @@
     "youtube": "https://www.youtube.com/embed/QB9BDpKzAtk",
     "weapon": "Gauntlets",
     "cost": "50 Focus",
-    "from": "Cursed Unguis",
-    "update": "Breach",
+    "source": "Cursed Unguis",
     "tags": ["Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
 
@@ -224,8 +202,7 @@
     "youtube": "",
     "weapon": "Gauntlets",
     "cost": "133 Focus",
-    "from": "Crystal Fist",
-    "update": "Breach",
+    "source": "Crystal Fist",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
   {
@@ -233,8 +210,7 @@
     "youtube": "",
     "weapon": "Gauntlets",
     "cost": "50 Focus",
-    "from": "Nith Grovebinders",
-    "update": "Breach",
+    "source": "Nith Grovebinders",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
   {
@@ -242,8 +218,7 @@
     "youtube": "",
     "weapon": "Gauntlets",
     "cost": "50 Focus",
-    "from": "Vendor - Illaria",
-    "update": "Breach",
+    "source": "Vendor - Illaria",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
   {
@@ -251,8 +226,7 @@
     "youtube": "",
     "weapon": "Gauntlets",
     "cost": "50 Focus",
-    "from": "Ceremonial Nith Tunic",
-    "update": "Breach",
+    "source": "Ceremonial Nith Tunic",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
   {
@@ -260,8 +234,7 @@
     "youtube": "",
     "weapon": "Gauntlets",
     "cost": "50 Focus",
-    "from": "Claw of the Crescent Moon",
-    "update": "Breach",
+    "source": "Claw of the Crescent Moon",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
    {
@@ -269,8 +242,7 @@
     "youtube": "",
     "weapon": "Gauntlets",
     "cost": "125 Focus",
-    "from": "Emerald Talons",
-    "update": "Breach",
+    "source": "Emerald Talons",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
   {
@@ -278,8 +250,7 @@
     "youtube": "",
     "weapon": "Gauntlets",
     "cost": "50 Focus",
-    "from": "Vendor - Illaria",
-    "update": "Breach",
+    "source": "Vendor - Illaria",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
   {
@@ -287,8 +258,7 @@
     "youtube": "https://www.youtube.com/embed/9sGKyvI5KIs",
     "weapon": "Gauntlets",
     "cost": "50 Focus",
-    "from": "Ironstud Interrogators",
-    "update": "Breach",
+    "source": "Ironstud Interrogators",
     "tags": ["Breach", "Gauntlets", "Two-Handed", "Martial"]
   }
     
