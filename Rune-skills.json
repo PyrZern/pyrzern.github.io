@@ -169,12 +169,12 @@
   },
   {
     "name": "Tempest Kick",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/9sGKyvI5KIs",
     "weapon": "Gauntlets",
-    "cost": "xy Focus",
-    "from": "Unknown",
+    "cost": "50 Focus",
+    "from": "Ironstud Interrogators",
     "update": "Breach",
-    "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial"]
+    "tags": ["Breach", "Gauntlets", "Two-Handed", "Martial"]
   }
     
 
