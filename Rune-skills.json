@@ -73,7 +73,7 @@
     "cost": "100 Focus",
     "from": "Soul Thresher",
     "update": "Breach",
-    "tags": ["Breach", "Focus", "Scythe", "Cleave"]
+    "tags": ["Unfinished", "Breach", "Focus", "Scythe", "Cleave"]
   },
   {
     "name": "Knockdown Swirl",
@@ -82,7 +82,7 @@
     "cost": "50 Focus",
     "from": "Divine Scimitar",
     "update": "Breach",
-    "tags": ["Breach", "Focus", "Two-Handed", "Curved", "Swirl"]
+    "tags": ["Unfinished", "Breach", "Focus", "Two-Handed", "Curved", "Swirl"]
   },
 
 
