@@ -101,7 +101,7 @@
     "youtube": "",
     "type": "Gauntlets",
     "cost": "40 Stamina",
-    "source": "Unknown",
+    "source": "Vendor - Illaria",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial", "Stamina", "Kick"]
   },
   {
@@ -109,7 +109,7 @@
     "youtube": "",
     "type": "Gauntlets",
     "cost": "32 Stamina",
-    "source": "Unknown",
+    "source": "Vendor - Illaria",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial", "Stamina", "Kick"]
   },
   {
@@ -117,7 +117,7 @@
     "youtube": "",
     "type": "Gauntlets",
     "cost": "42 Stamina",
-    "source": "Unknown",
+    "source": "Vendor - Illaria",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial", "Stamina", "Kick"]
   },
   {
@@ -125,7 +125,7 @@
     "youtube": "",
     "type": "Gauntlets",
     "cost": "30 Stamina",
-    "source": "Unknown",
+    "source": "Vendor - Illaria",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial", "Stamina", "Kick"]
   },
     
@@ -142,7 +142,7 @@
     "youtube": "",
     "type": "Unknown",
     "cost": "20 Focus",
-    "source": "Unknown",
+    "source": "Vendor - Illaria",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Martial", "Throw", "Focus"]
   },
   {
@@ -150,7 +150,7 @@
     "youtube": "",
     "type": "Unknown",
     "cost": "25 Focus",
-    "source": "Unknown",
+    "source": "Vendor - Illaria",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Martial", "Throw", "Focus"]
   },
   {
@@ -158,7 +158,7 @@
     "youtube": "",
     "type": "Unknown",
     "cost": "50 Focus",
-    "source": "Unknown",
+    "source": "Vendor - Illaria",
     "tags": ["Unfinished", "Breach", "Martial", "Throw", "Trap", "Fire", "Focus"]
   },
 
