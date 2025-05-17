@@ -210,7 +210,7 @@
     "type": "Gauntlets",
     "cost": "50 Focus",
     "source": "Nith Grovebinders",
-    "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial"]
+    "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial", "Kick"]
   },
   {
     "rune": "Dive Break",
@@ -226,7 +226,7 @@
     "type": "Gauntlets",
     "cost": "50 Focus",
     "source": "Ceremonial Nith Tunic",
-    "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial"]
+    "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial", "Kick"]
   },
   {
     "rune": "Recoil Strike",
