@@ -66,6 +66,31 @@
     "tags": ["Breach", "Focus", "Curved", "Slash"]
   },
 
+  {
+    "name": "Frenzied Cleave",
+    "youtube": "",
+    "weapon": "Scythe",
+    "cost": "100 Focus",
+    "from": "Soul Thresher",
+    "update": "Breach",
+    "tags": ["Breach", "Focus", "Scythe", "Cleave"]
+  },
+  {
+    "name": "Knockdown Swirl",
+    "youtube": "",
+    "weapon": "Curved Greatsword",
+    "cost": "50 Focus",
+    "from": "Divine Scimitar",
+    "update": "Breach",
+    "tags": ["Breach", "Focus", "Two-Handed", "Curved", "Swirl"]
+  },
+
+
+
+
+
+
+    
 
   {
     "name": "Buster Rift",
