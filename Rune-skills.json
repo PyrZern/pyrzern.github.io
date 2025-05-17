@@ -77,35 +77,35 @@
     
   {
     "name": "Buster Rift",
-        "youtube": "https://www.youtube.com/embed/0Ver-lGuhcY",
+    "youtube": "https://www.youtube.com/embed/0Ver-lGuhcY",
     "weapon": "Gauntlets",
     "cost": "125 Focus",
     "from": "Shellguard Gauntlets",
-    "tags": ["Gauntlets", "Two-Handed", "Martial"]
+    "tags": ["Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
   {
     "name": "Tremor Wave",
-        "youtube": "https://www.youtube.com/embed/iP_xgOk9TL4",
+    "youtube": "https://www.youtube.com/embed/iP_xgOk9TL4",
     "weapon": "Gauntlets",
     "cost": "50 Focus",
     "from": "Deadfang",
-    "tags": ["Gauntlets", "Two-Handed", "Martial"]
+    "tags": ["Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
   {
     "name": "Drive Break",
-        "youtube": "https://www.youtube.com/embed/JhmXjxNZ7LY",
+    "youtube": "https://www.youtube.com/embed/JhmXjxNZ7LY",
     "weapon": "Gauntlets",
     "cost": "50 Focus",
     "from": "Heibach's Claws",
-    "tags": ["Gauntlets", "Two-Handed", "Martial"]
+    "tags": ["Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
   {
     "name": "Plague Retch",
-        "youtube": "https://www.youtube.com/embed/QB9BDpKzAtk",
+    "youtube": "https://www.youtube.com/embed/QB9BDpKzAtk",
     "weapon": "Gauntlets",
     "cost": "50 Focus",
     "from": "Cursed Unguis",
-    "tags": ["Gauntlets", "Two-Handed", "Martial"]
+    "tags": ["Breach", "Gauntlets", "Two-Handed", "Martial"]
   }
 
 
