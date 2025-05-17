@@ -200,7 +200,7 @@
   {
     "rune": "Plague Enchantment",
     "youtube": "",
-    "type": "Axe",
+    "type": "Any Weapon",
     "cost": "50 Focus",
     "source": "Shroud Cleaver",
     "tags": ["Breach", "Focus", "Plague", "Enchantment", "Buff"]
@@ -208,25 +208,25 @@
   {
     "rune": "Electric Enchantment",
     "youtube": "",
-    "type": "Axe",
+    "type": "Any Weapon",
     "cost": "50 Focus",
-    "source": "Shroud Cleaver",
+    "source": "Unknown",
     "tags": ["Breach", "Focus", "Electric", "Enchantment", "Buff"]
   },
   {
     "rune": "Cold Enchantment",
     "youtube": "",
-    "type": "Axe",
+    "type": "Any Weapon",
     "cost": "50 Focus",
-    "source": "Shroud Cleaver",
+    "source": "Ice Breaker",
     "tags": ["Breach", "Focus", "Cold", "Enchantment", "Buff"]
   },
   {
     "rune": "Heat Enchantment",
     "youtube": "",
-    "type": "Axe",
+    "type": "Any Weapon",
     "cost": "50 Focus",
-    "source": "Shroud Cleaver",
+    "source": "Azure Blade",
     "tags": ["Breach", "Focus", "Heat", "Enchantment", "Buff"]
   },
 
