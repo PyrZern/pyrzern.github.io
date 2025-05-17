@@ -93,6 +93,88 @@
   },
 
 
+    
+[
+  {
+    "Rune": "Arrow",
+    "youtube": "",
+    "Type": "Bow",
+    "Cost": "10 Focus",
+    "Source": "Unknown",
+    "Tags": ["Breach", "Focus", "Bow", "Ranged"]
+  },
+  {
+    "Rune": "Cone Shot",
+    "youtube": "",
+    "Type": "Bow",
+    "Cost": "100 Focus",
+    "Source": "Yew Longbow",
+    "Tags": ["Breach", "Focus", "Bow", "Ranged"]
+  },
+  {
+    "Rune": "Evasive Shot",
+    "youtube": "",
+    "Type": "Bow",
+    "Cost": "50 Focus",
+    "Source": "Unknown",
+    "Tags": ["Breach", "Focus", "Bow", "Ranged"]
+  },
+  {
+    "Rune": "Fire Arrow",
+    "youtube": "",
+    "Type": "Bow",
+    "Cost": "20 Focus",
+    "Source": "Unknown",
+    "Tags": ["Breach", "Focus", "Bow", "Ranged"]
+  },
+  {
+    "Rune": "Ice Arrow",
+    "youtube": "",
+    "Type": "Bow",
+    "Cost": "20 Focus",
+    "Source": "Unknown",
+    "Tags": ["Breach", "Focus", "Bow", "Ranged"]
+  },
+  {
+    "Rune": "Knockout Shot",
+    "youtube": "",
+    "Type": "Bow",
+    "Cost": "100 Focus",
+    "Source": "Pale Ash",
+    "Tags": ["Breach", "Focus", "Bow", "Ranged"]
+  },
+  {
+    "Rune": "Lightning Arrow",
+    "youtube": "",
+    "Type": "Bow",
+    "Cost": "20 Focus",
+    "Source": "Unknown",
+    "Tags": ["Breach", "Focus", "Bow", "Ranged"]
+  },
+  {
+    "Rune": "Multi Shot",
+    "youtube": "",
+    "Type": "Bow",
+    "Cost": "100 Focus",
+    "Source": "Short Bow",
+    "Tags": ["Breach", "Focus", "Bow", "Ranged"]
+  },
+  {
+    "Rune": "Plague Arrow",
+    "youtube": "",
+    "Type": "Bow",
+    "Cost": "20 Focus",
+    "Source": "Unknown",
+    "Tags": ["Breach", "Focus", "Bow", "Ranged"]
+  }
+],
+
+
+
+
+
+
+    
     {
     "rune": "Return",
     "youtube": "",
