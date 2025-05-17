@@ -69,18 +69,13 @@
   },
 
 
-
-
-  {
-    "___Comment": "Gauntlet Runes",
-  },
-
   {
     "name": "Buster Rift",
     "youtube": "https://www.youtube.com/embed/0Ver-lGuhcY",
     "weapon": "Gauntlets",
     "cost": "125 Focus",
     "from": "Shellguard Gauntlets",
+    "update": "Breach",
     "tags": ["Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
   {
@@ -89,6 +84,7 @@
     "weapon": "Gauntlets",
     "cost": "50 Focus",
     "from": "Deadfang",
+    "update": "Breach",
     "tags": ["Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
   {
@@ -97,6 +93,7 @@
     "weapon": "Gauntlets",
     "cost": "50 Focus",
     "from": "Heibach's Claws",
+    "update": "Breach",
     "tags": ["Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
   {
@@ -105,72 +102,81 @@
     "weapon": "Gauntlets",
     "cost": "50 Focus",
     "from": "Cursed Unguis",
+    "update": "Breach",
     "tags": ["Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
 
 
-      {
+  {
     "name": "Break Rush",
     "youtube": "https://",
     "weapon": "Gauntlets",
     "cost": "133 Focus",
     "from": "Crystal Fist",
+    "update": "Breach",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
-      {
+  {
     "name": "Cyclone Kick",
     "youtube": "https://",
     "weapon": "Gauntlets",
     "cost": "50 Focus",
     "from": "Nith Grovebinders",
+    "update": "Breach",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
-      {
+  {
     "name": "Dive Break",
     "youtube": "https://",
     "weapon": "Gauntlets",
     "cost": "50 Focus",
     "from": "Vendor - Illaria",
+    "update": "Breach",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
-      {
+  {
     "name": "Dragonfly Kick",
     "youtube": "https://",
     "weapon": "Gauntlets",
     "cost": "50 Focus",
     "from": "Ceremonial Nith Tunic",
+    "update": "Breach",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
-          {
+  {
     "name": "Recoil Strike",
     "youtube": "https://",
     "weapon": "Gauntlets",
     "cost": "50 Focus",
     "from": "Claw of the Crescent Moon",
+    "update": "Breach",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
-          {
+   {
     "name": "Skyfall Smash",
     "youtube": "https://",
     "weapon": "Gauntlets",
     "cost": "125 Focus",
     "from": "Emerald Talons",
+    "update": "Breach",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
-          {
+  {
     "name": "Spirit Burst",
     "youtube": "https://",
     "weapon": "Gauntlets",
     "cost": "50 Focus",
     "from": "Vendor - Illaria",
+    "update": "Breach",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
-      {
+  {
     "name": "Tempest Kick",
     "youtube": "https://www.youtube.com/embed/QB9BDpKzAtk",
     "weapon": "Gauntlets",
     "cost": "xy Focus",
     "from": "Unknown",
+    "update": "Breach",
     "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial"]
   }
     
