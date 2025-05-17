@@ -93,7 +93,159 @@
   },
 
 
+  {
+    "rune": "Plague Enchantment",
+    "youtube": "",
+    "type": "Axe",
+    "source": "Shroud Cleaver",
+    "cost": "50 Focus",
+    "tags": ["Breach", "Focus", "Plague", "Enchantment", "Buff"]
+  },
+  {
+    "rune": "Advancing Flurry",
+    "youtube": "",
+    "type": "Axe",
+    "source": "Reclaimer",
+    "cost": "100 Focus",
+    "tags": ["Breach", "Focus", "Flurry", "Axe"]
+  },
+  {
+    "rune": "Overrun",
+    "youtube": "",
+    "type": "Sword",
+    "source": "Whetted Wedge",
+    "cost": "100 Focus",
+    "tags": ["Breach", "Focus", "Sword"]
+  },
+  {
+    "rune": "Stormpiercer",
+    "youtube": "",
+    "type": "Sword",
+    "source": "Scorched Broadblade",
+    "cost": "100 Focus",
+    "tags": ["Breach", "Focus", "Sword"]
+  },
 
+  {
+    "rune": "Blazing Rupture",
+    "youtube": "",
+    "type": "Club",
+    "source": "Flame Wrangler",
+    "cost": "100 Focus",
+    "tags": ["Breach", "Focus", "Club", "Fire"]
+  },
+  {
+    "rune": "Tornado Strike",
+    "youtube": "",
+    "type": "Club",
+    "source": "Harvester’s Bonesaw",
+    "cost": "50 Focus",
+    "tags": ["Breach", "Focus", "Club"]
+  },
+  {
+    "rune": "Brutal Reprise",
+    "youtube": "",
+    "type": "Club",
+    "source": "Nailbringer",
+    "cost": "50 Focus",
+    "tags": ["Breach", "Focus", "Club"]
+  },
+  {
+    "rune": "Lightning Whirl",
+    "youtube": "",
+    "type": "Mace",
+    "source": "Shrike Tree",
+    "cost": "150 Focus",
+    "tags": ["Breach", "Focus", "Mace", "Whirl", "Lightning"]
+  },
+  {
+    "rune": "Relentless Cleave",
+    "youtube": "",
+    "type": "Great Axe",
+    "source": "Boarskin Reaper",
+    "cost": "100 Focus",
+    "tags": ["Breach", "Focus", "Two-Handed", "Greataxe", "Cleave"]
+  },
+  {
+    "rune": "Raging Spiral",
+    "youtube": "",
+    "type": "Great Axe",
+    "source": "Midnight Shredder",
+    "cost": "100 Focus",
+    "tags": ["Breach", "Focus", "Two-Handed", "Greataxe", "Spiral"]
+  },
+  {
+    "rune": "Spiral Crush",
+    "youtube": "",
+    "type": "Great Axe",
+    "source": "Cerim’s Skyrend",
+    "cost": "50 Focus",
+    "tags": ["Breach", "Focus", "Two-Handed", "Greataxe", "Spiral"]
+  },
+  {
+    "rune": "Breaker Thrust",
+    "youtube": "",
+    "type": "Great Axe",
+    "source": "Harvester’s Dread",
+    "cost": "50 Focus",
+    "tags": ["Breach", "Focus", "Two-Handed", "Greataxe", "Thrust"]
+  },
+
+  {
+    "rune": "Rip and Tear",
+    "youtube": "",
+    "type": "Scythe",
+    "source": "Hope Shorn",
+    "cost": "100 Focus",
+    "tags": ["Breach", "Focus", "Two-Handed", "Scythe"]
+  },
+  {
+    "rune": "Tremor Slam",
+    "youtube": "",
+    "type": "Great Sword",
+    "source": "Mayhem",
+    "cost": "100 Focus",
+    "tags": ["Breach", "Focus", "Two-Handed", "Greatsword", "Slam"]
+  },
+  {
+    "rune": "Homing Frost",
+    "youtube": "",
+    "type": "Staff",
+    "source": "Endless Winter",
+    "cost": "100 Focus",
+    "tags": ["Breach", "Focus", "Staff", "Cold"]
+  },
+  {
+    "rune": "Frost Stream",
+    "youtube": "",
+    "type": "Staff",
+    "source": "Vendor - Eleanor",
+    "cost": "25 Focus",
+    "tags": ["Breach", "Focus", "Staff", "Cold", "Channel"]
+  },
+  {
+    "rune": "Rotwheel",
+    "youtube": "",
+    "type": "Staff",
+    "source": "Caretaker’s Ruined Staff",
+    "cost": "100 Focus",
+    "tags": ["Breach", "Focus", "Staff", "Plague"]
+  },
+  {
+    "rune": "Pestilence",
+    "youtube": "",
+    "type": "Staff",
+    "source": "Unknown",
+    "cost": "150 Focus",
+    "tags": ["Breach", "Focus", "Staff", "Plague"]
+  },
+
+
+
+
+
+
+    
 
     
   {
