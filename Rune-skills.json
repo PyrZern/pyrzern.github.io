@@ -65,7 +65,7 @@
     "type": "Scythe",
     "cost": "100 Focus",
     "source": "Soul Thresher",
-    "tags": ["Unfinished", "Breach", "Focus", "Two-Handed", "Scythe", "Cleave"]
+    "tags": ["Breach", "Focus", "Two-Handed", "Scythe", "Cleave"]
   },
   {
     "rune": "Knockdown Swirl",
@@ -73,7 +73,7 @@
     "type": "Curved Greatsword",
     "cost": "50 Focus",
     "source": "Divine Scimitar",
-    "tags": ["Unfinished", "Breach", "Focus", "Two-Handed", "Curved", "Greatsword", "Swirl"]
+    "tags": ["Breach", "Focus", "Two-Handed", "Curved", "Greatsword", "Swirl"]
   },
   {
     "rune": "Wallbreaker",
@@ -81,7 +81,7 @@
     "type": "Great Sword",
     "cost": "100 Focus",
     "source": "Summer's Sting",
-    "tags": ["Unfinished", "Breach", "Focus", "Two-Handed", "Greatsword"]
+    "tags": ["Breach", "Focus", "Two-Handed", "Greatsword"]
   },
   {
     "rune": "Spiral Crash",
@@ -89,7 +89,7 @@
     "type": "Great Axe",
     "cost": "50 Focus",
     "source": "Cerim's Skyrend",
-    "tags": ["Unfinished", "Breach", "Focus", "Two-Handed", "Axe", "Greataxe", "Spiral", "Crash"]
+    "tags": ["Breach", "Focus", "Two-Handed", "Axe", "Greataxe", "Spiral", "Crash"]
   },
 
 
