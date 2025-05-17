@@ -61,7 +61,7 @@
 
   {
     "name": "Frenzied Cleave",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/MO74AjcthD8",
     "weapon": "Scythe",
     "cost": "100 Focus",
     "source": "Soul Thresher",
@@ -69,7 +69,7 @@
   },
   {
     "name": "Knockdown Swirl",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/odHlLGujVTg",
     "weapon": "Curved Greatsword",
     "cost": "50 Focus",
     "source": "Divine Scimitar",
@@ -77,7 +77,7 @@
   },
   {
     "name": "Wallbreaker",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/bWejEJdBPQo",
     "weapon": "Great Sword",
     "cost": "100 Focus",
     "source": "Summer's Sting",
@@ -85,7 +85,7 @@
   },
   {
     "name": "Spiral Crash",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/4Ua_w3MtopI",
     "weapon": "Great Axe",
     "cost": "50 Focus",
     "source": "Cerim's Skyrend",
@@ -258,7 +258,7 @@
     "weapon": "Gauntlets",
     "cost": "50 Focus",
     "source": "Ironstud Interrogators",
-    "tags": ["Breach", "Gauntlets", "Two-Handed", "Martial"]
+    "tags": ["Breach", "Gauntlets", "Two-Handed", "Martial", "Kick"]
   }
     
 
