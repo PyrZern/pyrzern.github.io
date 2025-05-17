@@ -73,7 +73,7 @@
     "cost": "100 Focus",
     "from": "Soul Thresher",
     "update": "Breach",
-    "tags": ["Unfinished", "Breach", "Focus", "Scythe", "Cleave"]
+    "tags": ["Unfinished", "Breach", "Focus", "Two-Handed", "Scythe", "Cleave"]
   },
   {
     "name": "Knockdown Swirl",
@@ -82,10 +82,26 @@
     "cost": "50 Focus",
     "from": "Divine Scimitar",
     "update": "Breach",
-    "tags": ["Unfinished", "Breach", "Focus", "Two-Handed", "Curved", "Swirl"]
+    "tags": ["Unfinished", "Breach", "Focus", "Two-Handed", "Curved", "Greatsword", "Swirl"]
   },
-
-
+  {
+    "name": "Wallbreaker",
+    "youtube": "",
+    "weapon": "Great Sword",
+    "cost": "100 Focus",
+    "from": "Summer's Sting",
+    "update": "Breach",
+    "tags": ["Unfinished", "Breach", "Focus", "Two-Handed", "Greatsword"]
+  },
+  {
+    "name": "Spiral Crash",
+    "youtube": "",
+    "weapon": "Great Axe",
+    "cost": "50 Focus",
+    "from": "Cerim's Skyrend",
+    "update": "Breach",
+    "tags": ["Unfinished", "Breach", "Focus", "Two-Handed", "Axe", "Greataxe", "Spira;", "Crash"]
+  },
 
 
 
