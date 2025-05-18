@@ -35,6 +35,18 @@
     "tags": ["Breach", "Focus", "Two-Handed", "Dual", "Flurry", "Dual Daggers"]
   },
   {
+    "rune": "Crush",
+    "youtube": "https://www.youtube.com/embed/hZJ03Oj6UlQ",
+    "type": "Weapon",
+    "cost": "100 Focus",
+    "source": "Unknown",
+    "tags": ["Breach", "Focus", "Crush"]
+  },
+
+
+
+    
+  {
     "rune": "Piercing Flurry",
     "youtube": "https://www.youtube.com/embed/u_XPbYKmaVg",
     "type": "Rapier",
@@ -161,7 +173,7 @@
     "type": "Bow",
     "cost": "20 Focus",
     "source": "Unknown",
-    "tags": ["Breach", "Focus", "Bow", "Ranged"]
+    "tags": ["Breach", "Focus", "Bow", "Ranged", "Lightning"]
   },
   {
     "rune": "Multi Shot",
@@ -169,15 +181,15 @@
     "type": "Bow",
     "cost": "100 Focus",
     "source": "Short Bow",
-    "tags": ["Breach", "Focus", "Bow", "Ranged"]
+    "tags": ["Breach", "Focus", "Bow", "Ranged", "Channel"]
   },
   {
     "rune": "Plague Arrow",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/eVRBtHp8CLA",
     "type": "Bow",
     "cost": "20 Focus",
-    "source": "Unknown",
-    "tags": ["Breach", "Focus", "Bow", "Ranged"]
+    "source": "Patience",
+    "tags": ["Breach", "Focus", "Bow", "Ranged", "Plague"]
   },
 
 
@@ -197,9 +209,22 @@
     "source": "Rune-Stricken Wand",
     "tags": ["Breach", "Focus", "Plague", "Wand", "Ranged"]
   },
-
-
-
+  {
+    "rune": "Plague Swirl",
+    "youtube": "https://www.youtube.com/embed/J811XEgEtgc",
+    "type": "Weapon",
+    "cost": "50 Focus",
+    "source": "Honed Frenzy",
+    "tags": ["Breach", "Focus", "Plague", "Swirl"]
+  },
+  {
+    "rune": "Plague Strike",
+    "youtube": "https://www.youtube.com/embed/lZMOQUBg6sk",
+    "type": "Weapon",
+    "cost": "50 Focus",
+    "source": "Unknown",
+    "tags": ["Breach", "Focus", "Plague", "Swirl"]
+  },
 
 
 
@@ -676,7 +701,7 @@
   },
   {
     "rune": "Cyclone Kick",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/7X4O1Zeyysw",
     "type": "Gauntlets",
     "cost": "50 Focus",
     "source": "Nith Grovebinders",
