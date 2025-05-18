@@ -402,10 +402,10 @@
   {
     "rune": "Relentless Cleave",
     "youtube": "https://www.youtube.com/embed/n2k_fSe0aXc",
-    "type": "Greataxe",
+    "type": "Any Two-Handed Weapon",
     "cost": "100 Focus",
     "source": "Boarskin Reaper",
-    "tags": ["Breach", "Focus", "Two-Handed", "Greataxe", "Cleave"]
+    "tags": ["Breach", "Focus", "Two-Handed", "Cleave"]
   },
   {
     "rune": "Ground Slam",
