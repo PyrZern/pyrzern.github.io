@@ -58,7 +58,20 @@
     "source": "Rusty Khopesh",
     "tags": ["Breach", "Focus", "Curved", "Slash", "Kick"]
   },
+  {
+    "rune": "Lightning Spin",
+    "youtube": "",
+    "type": "Curved Sword",
+    "cost": "100 Focus",
+    "source": "Filleter",
+    "tags": ["Breach", "Focus", "Curved", "Electric", "Spin"]
+  },
 
+
+
+
+
+    
   {
     "rune": "Frenzied Cleave",
     "youtube": "https://www.youtube.com/embed/MO74AjcthD8",
