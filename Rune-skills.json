@@ -60,7 +60,7 @@
   },
   {
     "rune": "Lightning Spin",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/JJQUEY384Ms",
     "type": "Curved Sword",
     "cost": "100 Focus",
     "source": "Filleter",
@@ -108,16 +108,16 @@
 
 
   {
-    "rune": "Arrow",
-    "youtube": "",
+    "rune": "Arrow Shot",
+    "youtube": "https://www.youtube.com/embed/-OBJvnJtkLA",
     "type": "Bow",
     "cost": "10 Focus",
-    "source": "Unknown",
+    "source": "Any Bow",
     "tags": ["Breach", "Focus", "Bow", "Ranged"]
   },
   {
     "rune": "Cone Shot",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/VjfFx9Tm0nQ",
     "type": "Bow",
     "cost": "100 Focus",
     "source": "Yew Longbow",
@@ -125,31 +125,31 @@
   },
   {
     "rune": "Evasive Shot",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/QPPAu5juMGE",
     "type": "Bow",
     "cost": "50 Focus",
-    "source": "Unknown",
+    "source": "Laquered Bow",
     "tags": ["Breach", "Focus", "Bow", "Ranged"]
   },
   {
     "rune": "Fire Arrow",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/9ZxBg2V2f9M",
     "type": "Bow",
     "cost": "20 Focus",
-    "source": "Unknown",
-    "tags": ["Breach", "Focus", "Bow", "Ranged"]
+    "source": "Laquered Bow",
+    "tags": ["Breach", "Focus", "Bow", "Ranged", "Fire"]
   },
   {
     "rune": "Ice Arrow",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/eswgkuwZXtE",
     "type": "Bow",
     "cost": "20 Focus",
-    "source": "Unknown",
-    "tags": ["Breach", "Focus", "Bow", "Ranged"]
+    "source": "Laquered Bow",
+    "tags": ["Breach", "Focus", "Bow", "Ranged", "Cold"]
   },
   {
     "rune": "Knockout Shot",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/CDyOW4evINE",
     "type": "Bow",
     "cost": "100 Focus",
     "source": "Pale Ash",
@@ -165,7 +165,7 @@
   },
   {
     "rune": "Multi Shot",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/mfS8Oa9ikLU",
     "type": "Bow",
     "cost": "100 Focus",
     "source": "Short Bow",
@@ -181,7 +181,30 @@
   },
 
 
+  {
+    "rune": "Plague Barrage",
+    "youtube": "https://www.youtube.com/embed/F2aZPnZE8FY",
+    "type": "Wand",
+    "cost": "100 Focus",
+    "source": "Rune-Stricken Wand",
+    "tags": ["Breach", "Focus", "Plague", "Wand", "Ranged"]
+  },
+  {
+    "rune": "Plague Explosion",
+    "youtube": "https://www.youtube.com/embed/tUn1jLF-6uI",
+    "type": "Wand",
+    "cost": "100 Focus",
+    "source": "Rune-Stricken Wand",
+    "tags": ["Breach", "Focus", "Plague", "Wand", "Ranged"]
+  },
 
+
+
+
+
+
+
+    
     
     {
     "rune": "Return",
