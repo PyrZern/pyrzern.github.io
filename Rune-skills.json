@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-05-18",
+  "lastUpdated": "2025-05-19",
 
   "skills": [
   {
@@ -8,7 +8,7 @@
     "type": "Curved Sword",
     "cost": "100 Focus",
     "source": "Scimitar",
-    "tags": ["Breach", "Focus", "Dash", "Twirl", "Curved"]
+    "tags": ["_Breach", "Focus", "Dash", "Twirl", "Curved"]
   },
   {
     "rune": "Frost Dash",
@@ -16,7 +16,7 @@
     "type": "Knife",
     "cost": "100 Focus",
     "source": "Jackknife",
-    "tags": ["Breach", "Focus", "Dash", "Cold", "Knife"]
+    "tags": ["_Breach", "Focus", "Dash", "Elemental Damage", "Elemental: Cold", "Knife"]
   },
   {
     "rune": "Piercing Dash",
@@ -24,7 +24,7 @@
     "type": "Knife",
     "cost": "100 Focus",
     "source": "Hunter's Knife",
-    "tags": ["Breach", "Focus", "Dash", "Piercing", "Knife"]
+    "tags": ["_Breach", "Focus", "Dash", "Piercing", "Knife"]
   },
   {
     "rune": "Dual Flurry",
@@ -32,7 +32,7 @@
     "type": "Dual Daggers",
     "cost": "50 Focus",
     "source": "Bleeder's Delight",
-    "tags": ["Breach", "Focus", "Two-Handed", "Dual", "Flurry", "Dual Daggers"]
+    "tags": ["_Breach", "Focus", "Two-Handed", "Dual", "Flurry", "Dual Daggers"]
   },
   {
     "rune": "Crush",
@@ -40,7 +40,7 @@
     "type": "Weapon",
     "cost": "100 Focus",
     "source": "Unknown",
-    "tags": ["Breach", "Focus", "Crush"]
+    "tags": ["_Breach", "Focus", "Crush"]
   },
 
 
@@ -52,7 +52,7 @@
     "type": "Rapier",
     "cost": "100 Focus",
     "source": "Pig Sticker",
-    "tags": ["Breach", "Focus", "Piercing", "Flurry", "Rapier"]
+    "tags": ["_Breach", "Focus", "Piercing", "Flurry", "Rapier"]
   },
   {
     "rune": "Crushing Slam",
@@ -60,7 +60,7 @@
     "type": "Greatclub",
     "cost": "100 Focus",
     "source": "Brutish Cudgel",
-    "tags": ["Breach", "Focus", "Two-Handed", "Greatclub", "Slam"]
+    "tags": ["_Breach", "Focus", "Two-Handed", "Greatclub", "Slam"]
   },
   {
     "rune": "Kick Slash",
@@ -68,7 +68,7 @@
     "type": "Curved Sword",
     "cost": "100 Focus",
     "source": "Rusty Khopesh",
-    "tags": ["Breach", "Focus", "Curved", "Slash", "Kick"]
+    "tags": ["_Breach", "Focus", "Curved", "Slash", "Kick"]
   },
   {
     "rune": "Lightning Spin",
@@ -76,7 +76,7 @@
     "type": "Curved Sword",
     "cost": "100 Focus",
     "source": "Filleter",
-    "tags": ["Breach", "Focus", "Curved", "Electric", "Spin"]
+    "tags": ["_Breach", "Focus", "Curved", "Elemental Damage", "Elemental: Lightning", "Spin"]
   },
 
 
@@ -90,7 +90,7 @@
     "type": "Scythe",
     "cost": "100 Focus",
     "source": "Soul Thresher",
-    "tags": ["Breach", "Focus", "Two-Handed", "Scythe", "Cleave"]
+    "tags": ["_Breach", "Focus", "Two-Handed", "Scythe", "Cleave"]
   },
   {
     "rune": "Knockdown Swirl",
@@ -98,7 +98,7 @@
     "type": "Curved Greatsword",
     "cost": "50 Focus",
     "source": "Divine Scimitar",
-    "tags": ["Breach", "Focus", "Two-Handed", "Curved", "Greatsword", "Swirl"]
+    "tags": ["_Breach", "Focus", "Two-Handed", "Curved", "Greatsword", "Swirl"]
   },
   {
     "rune": "Wallbreaker",
@@ -106,7 +106,7 @@
     "type": "Greatsword",
     "cost": "100 Focus",
     "source": "Summer's Sting",
-    "tags": ["Breach", "Focus", "Two-Handed", "Greatsword"]
+    "tags": ["_Breach", "Focus", "Two-Handed", "Greatsword"]
   },
   {
     "rune": "Spiral Crash",
@@ -114,7 +114,7 @@
     "type": "Greataxe",
     "cost": "50 Focus",
     "source": "Cerim's Skyrend",
-    "tags": ["Breach", "Focus", "Two-Handed", "Axe", "Greataxe", "Spiral", "Crash"]
+    "tags": ["_Breach", "Focus", "Two-Handed", "Axe", "Greataxe", "Spiral", "Crash"]
   },
 
 
@@ -125,7 +125,7 @@
     "type": "Bow",
     "cost": "10 Focus",
     "source": "Any Bow",
-    "tags": ["Breach", "Focus", "Bow", "Ranged"]
+    "tags": ["_Breach", "Focus", "Bow", "Ranged"]
   },
   {
     "rune": "Cone Shot",
@@ -133,7 +133,7 @@
     "type": "Bow",
     "cost": "100 Focus",
     "source": "Yew Longbow",
-    "tags": ["Breach", "Focus", "Bow", "Ranged"]
+    "tags": ["_Breach", "Focus", "Bow", "Ranged"]
   },
   {
     "rune": "Evasive Shot",
@@ -141,7 +141,7 @@
     "type": "Bow",
     "cost": "50 Focus",
     "source": "Laquered Bow",
-    "tags": ["Breach", "Focus", "Bow", "Ranged"]
+    "tags": ["_Breach", "Focus", "Bow", "Ranged"]
   },
   {
     "rune": "Fire Arrow",
@@ -149,7 +149,7 @@
     "type": "Bow",
     "cost": "20 Focus",
     "source": "Laquered Bow",
-    "tags": ["Breach", "Focus", "Bow", "Ranged", "Fire"]
+    "tags": ["_Breach", "Focus", "Bow", "Ranged", "Elemental Damage", "Elemental: Fire"]
   },
   {
     "rune": "Ice Arrow",
@@ -157,7 +157,7 @@
     "type": "Bow",
     "cost": "20 Focus",
     "source": "Laquered Bow",
-    "tags": ["Breach", "Focus", "Bow", "Ranged", "Cold"]
+    "tags": ["_Breach", "Focus", "Bow", "Ranged", "Elemental Damage", "Elemental: Cold"]
   },
   {
     "rune": "Knockout Shot",
@@ -165,7 +165,7 @@
     "type": "Bow",
     "cost": "100 Focus",
     "source": "Pale Ash",
-    "tags": ["Breach", "Focus", "Bow", "Ranged"]
+    "tags": ["_Breach", "Focus", "Bow", "Ranged"]
   },
   {
     "rune": "Lightning Arrow",
@@ -173,7 +173,7 @@
     "type": "Bow",
     "cost": "20 Focus",
     "source": "Unknown",
-    "tags": ["Breach", "Focus", "Bow", "Ranged", "Lightning"]
+    "tags": ["_Breach", "Focus", "Bow", "Ranged", "Elemental Damage", "Elemental: Lightning"]
   },
   {
     "rune": "Multi Shot",
@@ -181,7 +181,7 @@
     "type": "Bow",
     "cost": "100 Focus",
     "source": "Short Bow",
-    "tags": ["Breach", "Focus", "Bow", "Ranged", "Channel"]
+    "tags": ["_Breach", "Focus", "Bow", "Ranged", "Channel"]
   },
   {
     "rune": "Plague Arrow",
@@ -189,7 +189,7 @@
     "type": "Bow",
     "cost": "20 Focus",
     "source": "Patience",
-    "tags": ["Breach", "Focus", "Bow", "Ranged", "Plague"]
+    "tags": ["_Breach", "Focus", "Bow", "Ranged", "Elemental Damage", "Elemental: Plague"]
   },
 
 
@@ -199,7 +199,7 @@
     "type": "Wand",
     "cost": "100 Focus",
     "source": "Rune-Stricken Wand",
-    "tags": ["Breach", "Focus", "Plague", "Wand", "Ranged"]
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Plague", "Wand", "Ranged"]
   },
   {
     "rune": "Plague Explosion",
@@ -207,7 +207,7 @@
     "type": "Wand",
     "cost": "100 Focus",
     "source": "Rune-Stricken Wand",
-    "tags": ["Breach", "Focus", "Plague", "Wand", "Ranged"]
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Plague", "Wand", "Ranged"]
   },
   {
     "rune": "Plague Swirl",
@@ -215,7 +215,7 @@
     "type": "Weapon",
     "cost": "50 Focus",
     "source": "Honed Frenzy",
-    "tags": ["Breach", "Focus", "Plague", "Swirl"]
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Plague", "Swirl"]
   },
   {
     "rune": "Plague Strike",
@@ -223,7 +223,7 @@
     "type": "Weapon",
     "cost": "50 Focus",
     "source": "Unknown",
-    "tags": ["Breach", "Focus", "Plague", "Swirl"]
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Plague", "Swirl"]
   },
 
 
@@ -237,7 +237,7 @@
     "type": "Any Weapon",
     "cost": "Unknown",
     "source": "Vendor - Eleanor",
-    "tags": ["Breach", "Focus", "Utility"]
+    "tags": ["_Breach", "Focus", "Utility"]
   },    
     {
     "rune": "Repair",
@@ -245,7 +245,7 @@
     "type": "Any Weapon",
     "cost": "Unknown",
     "source": "Vendor - Eleanor",
-    "tags": ["Breach", "Focus", "Utility"]
+    "tags": ["_Breach", "Focus", "Utility"]
   },    
     {
     "rune": "Illuminate",
@@ -253,7 +253,7 @@
     "type": "Any Weapon",
     "cost": "25 Focus",
     "source": "Vendor - Eleanor",
-    "tags": ["Breach", "Focus", "Utility"]
+    "tags": ["_Breach", "Focus", "Utility"]
   },
    {
     "rune": "Blink",
@@ -261,7 +261,7 @@
     "type": "Any Weapon",
     "cost": "25 Focus",
     "source": "Vendor - Eleanor",
-    "tags": ["Breach", "Focus", "Utility"]
+    "tags": ["_Breach", "Focus", "Utility"]
   },
   {
     "rune": "Heal Aura",
@@ -269,7 +269,7 @@
     "type": "Any Weapon",
     "cost": "25 Focus",
     "source": "Vendor - Eleanor",
-    "tags": ["Breach", "Focus", "Channel", "Utility", "Healing", "Aura", "AoE"]
+    "tags": ["_Breach", "Focus", "Channel", "Utility", "Healing", "Aura", "AoE"]
   },
   {
     "rune": "Channel",
@@ -277,7 +277,7 @@
     "type": "Any Weapon",
     "cost": "Unknown",
     "source": "Vendor - Eleanor",
-    "tags": ["Breach", "Focus", "Channel", "Utility"]
+    "tags": ["_Breach", "Focus", "Channel", "Utility"]
   },
     {
     "rune": "Poise Shield",
@@ -285,7 +285,7 @@
     "type": "Any Weapon",
     "cost": "100 Focus",
     "source": "Vendor - Eleanor",
-    "tags": ["Breach", "Focus", "Buff", "Poise"]
+    "tags": ["_Breach", "Focus", "Buff", "Poise"]
   },
   {
     "rune": "Focus Halo",
@@ -293,7 +293,7 @@
     "type": "Any Weapon",
     "cost": "100 Focus",
     "source": "Vendor - Eleanor",
-    "tags": ["Breach", "Focus", "Buff"]
+    "tags": ["_Breach", "Focus", "Buff"]
   },
   {
     "rune": "Stamina Wellspring",
@@ -301,7 +301,7 @@
     "type": "Any Weapon",
     "cost": "100 Focus",
     "source": "Vendor - Eleanor",
-    "tags": ["Breach", "Focus", "Buff", "Stamina"]
+    "tags": ["_Breach", "Focus", "Buff", "Stamina"]
   },
   {
     "rune": "Damage Surge",
@@ -309,7 +309,7 @@
     "type": "Any Weapon",
     "cost": "100 Focus",
     "source": "Vendor - Eleanor",
-    "tags": ["Breach", "Focus", "Buff"]
+    "tags": ["_Breach", "Focus", "Buff"]
   },
   {
     "rune": "Pulse Of Health",
@@ -317,7 +317,7 @@
     "type": "Any Weapon",
     "cost": "100 Focus",
     "source": "Vendor - Eleanor",
-    "tags": ["Breach", "Focus", "Buff"]
+    "tags": ["_Breach", "Focus", "Buff"]
   },    
   {
     "rune": "Thorns",
@@ -325,7 +325,7 @@
     "type": "Any Weapon",
     "cost": "100 Focus",
     "source": "Vendor - Eleanor",
-    "tags": ["Breach", "Focus", "Buff"]
+    "tags": ["_Breach", "Focus", "Buff"]
   },
   {
     "rune": "Scream",
@@ -333,7 +333,7 @@
     "type": "Any Weapon",
     "cost": "Unknown",
     "source": "Vendor - Eleanor",
-    "tags": ["Breach", "Focus"]
+    "tags": ["_Breach", "Focus"]
   },    
   {
     "rune": "Plague Enchantment",
@@ -341,7 +341,7 @@
     "type": "Any Weapon",
     "cost": "50 Focus",
     "source": "Shroud Cleaver",
-    "tags": ["Breach", "Focus", "Plague", "Enchantment", "Buff"]
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Plague", "Buff: Enchantment", "Buff"]
   },
   {
     "rune": "Electric Enchantment",
@@ -349,7 +349,7 @@
     "type": "Any Weapon",
     "cost": "50 Focus",
     "source": "Unknown",
-    "tags": ["Breach", "Focus", "Lightning", "Enchantment", "Buff"]
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Lightning", "Buff: Enchantment", "Buff"]
   },
   {
     "rune": "Cold Enchantment",
@@ -357,7 +357,7 @@
     "type": "Any Weapon",
     "cost": "50 Focus",
     "source": "Ice Breaker",
-    "tags": ["Breach", "Focus", "Cold", "Enchantment", "Buff"]
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Cold", "Buff: Enchantment", "Buff"]
   },
   {
     "rune": "Heat Enchantment",
@@ -365,7 +365,7 @@
     "type": "Any Weapon",
     "cost": "50 Focus",
     "source": "Azure Blade",
-    "tags": ["Breach", "Focus", "Heat", "Enchantment", "Buff"]
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Fire", "Buff: Enchantment", "Buff"]
   },
 
 
@@ -377,7 +377,7 @@
     "type": "Axe",
     "cost": "100 Focus",
     "source": "Reclaimer",
-    "tags": ["Breach", "Focus", "Flurry", "Axe"]
+    "tags": ["_Breach", "Focus", "Flurry", "Axe"]
   },
   {
     "rune": "Overrun",
@@ -385,7 +385,7 @@
     "type": "Sword",
     "cost": "100 Focus",
     "source": "Whetted Wedge",
-    "tags": ["Breach", "Focus", "Sword"]
+    "tags": ["_Breach", "Focus", "Sword"]
   },
   {
     "rune": "Stormpiercer",
@@ -393,7 +393,7 @@
     "type": "Sword",
     "cost": "100 Focus",
     "source": "Scorched Broadblade",
-    "tags": ["Breach", "Focus", "Sword"]
+    "tags": ["_Breach", "Focus", "Sword"]
   },
 
   {
@@ -402,7 +402,7 @@
     "type": "Club",
     "cost": "100 Focus",
     "source": "Flame Wrangler",
-    "tags": ["Breach", "Focus", "Club", "Fire"]
+    "tags": ["_Breach", "Focus", "Club", "Elemental Damage", "Elemental: Fire"]
   },
   {
     "rune": "Tornado Strike",
@@ -410,7 +410,7 @@
     "type": "Club",
     "cost": "50 Focus",
     "source": "Harvester’s Bonesaw",
-    "tags": ["Breach", "Focus", "Club"]
+    "tags": ["_Breach", "Focus", "Club"]
   },
   {
     "rune": "Brutal Reprise",
@@ -418,7 +418,7 @@
     "type": "Club",
     "cost": "50 Focus",
     "source": "Nailbringer",
-    "tags": ["Breach", "Focus", "Club"]
+    "tags": ["_Breach", "Focus", "Club"]
   },
   {
     "rune": "Lightning Whirl",
@@ -426,7 +426,7 @@
     "type": "Mace",
     "cost": "150 Focus",
     "source": "Shrike Tree",
-    "tags": ["Breach", "Focus", "Mace", "Whirl", "Lightning"]
+    "tags": ["_Breach", "Focus", "Mace", "Whirl", "Elemental Damage", "Elemental: Lightning"]
   },
   {
     "rune": "Raging Spiral",
@@ -434,7 +434,7 @@
     "type": "Greataxe",
     "cost": "100 Focus",
     "source": "Midnight Shredder",
-    "tags": ["Breach", "Focus", "Two-Handed", "Greataxe", "Spiral"]
+    "tags": ["_Breach", "Focus", "Two-Handed", "Greataxe", "Spiral"]
   },
   {
     "rune": "Breaker Thrust",
@@ -442,7 +442,7 @@
     "type": "Greataxe",
     "cost": "50 Focus",
     "source": "Harvester’s Dread",
-    "tags": ["Breach", "Focus", "Two-Handed", "Greataxe", "Thrust"]
+    "tags": ["_Breach", "Focus", "Two-Handed", "Greataxe", "Thrust"]
   },
   {
     "rune": "Fire Whirlwind",
@@ -450,7 +450,7 @@
     "type": "Greataxe",
     "cost": "100 Focus",
     "source": "Huro's Great Axe",
-    "tags": ["Breach", "Focus", "Two-Handed", "Greataxe", "Fire", "Whirlwind"]
+    "tags": ["_Breach", "Focus", "Two-Handed", "Greataxe", "Elemental Damage", "Elemental: Fire", "Whirlwind"]
     },
   {
     "rune": "Lightning Assault",
@@ -458,7 +458,7 @@
     "type": "Greataxe",
     "cost": "100 Focus",
     "source": "Gilded Twibill",
-    "tags": ["Breach", "Focus", "Two-Handed", "Greataxe", "Lightning", "Assault"]
+    "tags": ["_Breach", "Focus", "Two-Handed", "Greataxe", "Elemental Damage", "Elemental: Lightning", "Assault"]
   },
   {
     "rune": "Relentless Cleave",
@@ -466,7 +466,7 @@
     "type": "Any Two-Handed Weapon",
     "cost": "100 Focus",
     "source": "Boarskin Reaper",
-    "tags": ["Breach", "Focus", "Two-Handed", "Cleave"]
+    "tags": ["_Breach", "Focus", "Two-Handed", "Cleave"]
   },
   {
     "rune": "Ground Slam",
@@ -474,7 +474,7 @@
     "type": "Greatsword",
     "cost": "100 Focus",
     "source": "Festering Earth",
-    "tags": ["Breach", "Focus", "Two-Handed", "Greatsword", "Slam"]
+    "tags": ["_Breach", "Focus", "Two-Handed", "Greatsword", "Slam"]
   },
   {
     "rune": "Limit Break",
@@ -482,7 +482,7 @@
     "type": "Greatsword",
     "cost": "100 Focus",
     "source": "Gnarled Saw",
-    "tags": ["Breach", "Focus", "Two-Handed", "Greatsword", "Slam"]
+    "tags": ["_Breach", "Focus", "Two-Handed", "Greatsword", "Slam"]
   },    
   {
     "rune": "Pestilent Recoil",
@@ -490,7 +490,7 @@
     "type": "Greatsword",
     "cost": "100 Focus",
     "source": "Sieger",
-    "tags": ["Breach", "Focus", "Two-Handed", "Greatsword", "Plague"]
+    "tags": ["_Breach", "Focus", "Two-Handed", "Greatsword", "Elemental Damage", "Elemental: Plague"]
   },
   {
     "rune": "Slashing Spin",
@@ -498,7 +498,7 @@
     "type": "Greatsword",
     "cost": "100 Focus",
     "source": "Freiheit",
-    "tags": ["Breach", "Focus", "Two-Handed", "Greatsword", "Spin"]
+    "tags": ["_Breach", "Focus", "Two-Handed", "Greatsword", "Spin"]
   },
     
   {
@@ -507,7 +507,7 @@
     "type": "Scythe",
     "cost": "100 Focus",
     "source": "Hope Shorn",
-    "tags": ["Breach", "Focus", "Two-Handed", "Scythe"]
+    "tags": ["_Breach", "Focus", "Two-Handed", "Scythe"]
   },
   {
     "rune": "Tremor Slam",
@@ -515,7 +515,7 @@
     "type": "Greatsword",
     "cost": "100 Focus",
     "source": "Mayhem",
-    "tags": ["Breach", "Focus", "Two-Handed", "Greatsword", "Slam"]
+    "tags": ["_Breach", "Focus", "Two-Handed", "Greatsword", "Slam"]
   },
   {
     "rune": "Homing Frost",
@@ -523,7 +523,7 @@
     "type": "Staff",
         "cost": "100 Focus",
     "source": "Endless Winter",
-    "tags": ["Breach", "Focus", "Staff", "Cold"]
+    "tags": ["_Breach", "Focus", "Staff", "Elemental Damage", "Elemental: Cold"]
   },
   {
     "rune": "Frost Stream",
@@ -531,7 +531,7 @@
     "type": "Staff",
     "cost": "25 Focus",
     "source": "Vendor - Eleanor",
-    "tags": ["Breach", "Focus", "Staff", "Cold", "Channel"]
+    "tags": ["_Breach", "Focus", "Staff", "Elemental Damage", "Elemental: Cold", "Channel"]
   },
   {
     "rune": "Rotwheel",
@@ -539,7 +539,7 @@
     "type": "Staff",
     "cost": "100 Focus",
     "source": "Caretaker’s Ruined Staff",
-    "tags": ["Breach", "Focus", "Staff", "Plague"]
+    "tags": ["_Breach", "Focus", "Staff", "Elemental Damage", "Elemental: Plague"]
   },
   {
     "rune": "Pestilence",
@@ -547,7 +547,7 @@
     "type": "Staff",
     "cost": "150 Focus",
     "source": "Unknown",
-    "tags": ["Breach", "Focus", "Staff", "Plague"]
+    "tags": ["_Breach", "Focus", "Staff", "Elemental Damage", "Elemental: Plague"]
   },
 
 
@@ -564,7 +564,7 @@
     "type": "Gauntlets",
     "cost": "40 Stamina",
     "source": "Vendor - Illaria",
-    "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial", "Stamina", "Kick"]
+    "tags": ["_Unfinished", "_Breach", "Gauntlets", "Two-Handed", "Martial", "Stamina", "Kick"]
   },
   {
     "rune": "Frontflip Kick",
@@ -572,7 +572,7 @@
     "type": "Gauntlets",
     "cost": "32 Stamina",
     "source": "Vendor - Illaria",
-    "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial", "Stamina", "Kick"]
+    "tags": ["_Unfinished", "_Breach", "Gauntlets", "Two-Handed", "Martial", "Stamina", "Kick"]
   },
   {
     "rune": "Dropkick",
@@ -580,7 +580,7 @@
     "type": "Gauntlets",
     "cost": "42 Stamina",
     "source": "Vendor - Illaria",
-    "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial", "Stamina", "Kick"]
+    "tags": ["_Unfinished", "_Breach", "Gauntlets", "Two-Handed", "Martial", "Stamina", "Kick"]
   },
   {
     "rune": "Turnback Kick",
@@ -588,7 +588,7 @@
     "type": "Gauntlets",
     "cost": "30 Stamina",
     "source": "Vendor - Illaria",
-    "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial", "Stamina", "Kick"]
+    "tags": ["_Unfinished", "_Breach", "Gauntlets", "Two-Handed", "Martial", "Stamina", "Kick"]
   },
     
   {
@@ -597,7 +597,7 @@
     "type": "Unknown",
     "cost": "Unknown",
     "source": "Unknown",
-    "tags": ["Unfinished", "Breach", "Gauntlets", "Martial", "Throw", "Focus"]
+    "tags": ["_Unfinished", "_Breach", "Gauntlets", "Martial", "Throw", "Focus"]
   },
   {
     "rune": "Throw Axe",
@@ -605,7 +605,7 @@
     "type": "Any Weapon",
     "cost": "20 Focus",
     "source": "Vendor - Illaria", 
-    "tags": ["Unfinished", "Breach", "Martial", "Throw", "Focus"]
+    "tags": ["_Unfinished", "_Breach", "Martial", "Throw", "Focus"]
   },
   {
     "rune": "Throw Knife",
@@ -613,7 +613,7 @@
     "type": "Any Weapon",
     "cost": "25 Focus",
     "source": "Vendor - Illaria",
-    "tags": ["Unfinished", "Breach", "Martial", "Throw", "Focus"]
+    "tags": ["_Unfinished", "_Breach", "Martial", "Throw", "Focus"]
   },
   {
     "rune": "Drone Trap",
@@ -621,39 +621,39 @@
     "type": "Any Weapon",
     "cost": "50 Focus",
     "source": "Vendor - Illaria",
-    "tags": ["Unfinished", "Breach", "Martial", "Throw", "Trap", "Fire", "Focus"]
+    "tags": ["_Unfinished", "_Breach", "Martial", "Throw", "Trap", "Elemental Damage", "Elemental: Fire", "Focus"]
   },
   {
     "rune": "Plague Throw",
     "youtube": "",
-    "type": "Any One-Handed Weapon",
+    "type": "One-Handed Weapon",
     "cost": "50 Focus",
     "source": "Siren Queen's Horn",
-    "tags": ["Unfinished", "Breach", "Throw", "One-Handed", "Plague", "Focus"]
+    "tags": ["_Unfinished", "_Breach", "Throw", "One-Handed", "Elemental Damage", "Elemental: Plague", "Focus"]
   },
   {
     "rune": "Fire Throw",
     "youtube": "",
-    "type": "Any One-Handed Weapon",
+    "type": "One-Handed Weapon",
     "cost": "Unknown",
     "source": "Unknown",
-    "tags": ["Unfinished", "Breach", "Throw", "One-Handed", "Fire", "Focus"]
+    "tags": ["_Unfinished", "_Breach", "Throw", "One-Handed", "Elemental Damage", "Elemental: Fire", "Focus"]
   },
   {
     "rune": "Ice Throw",
     "youtube": "",
-    "type": "Any One-Handed Weapon",
+    "type": "One-Handed Weapon",
     "cost": "Unknown",
     "source": "Unknown",
-    "tags": ["Unfinished", "Breach", "Throw", "One-Handed", "Cold", "Focus"]
+    "tags": ["_Unfinished", "_Breach", "Throw", "One-Handed", "Elemental Damage", "Elemental: Cold", "Focus"]
   },
   {
     "rune": "Electric/Lightning Throw",
     "youtube": "",
-    "type": "Any One-Handed Weapon",
+    "type": "One-Handed Weapon",
     "cost": "Unknown",
     "source": "Unknown",
-    "tags": ["Unfinished", "Breach", "Throw", "One-Handed", "Electric", "Focus"]
+    "tags": ["_Unfinished", "_Breach", "Throw", "One-Handed", "Elemental Damage", "Elemental: Lightning", "Focus"]
   },
 
     
@@ -664,7 +664,7 @@
     "type": "Gauntlets",
     "cost": "125 Focus",
     "source": "Shellguard Gauntlets",
-    "tags": ["Breach", "Gauntlets", "Two-Handed", "Martial"]
+    "tags": ["_Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
   {
     "rune": "Tremor Wave",
@@ -672,7 +672,7 @@
     "type": "Gauntlets",
     "cost": "50 Focus",
     "source": "Deadfang",
-    "tags": ["Breach", "Gauntlets", "Two-Handed", "Martial"]
+    "tags": ["_Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
   {
     "rune": "Drive Break",
@@ -680,7 +680,7 @@
     "type": "Gauntlets",
     "cost": "50 Focus",
     "source": "Heibach's Claws",
-    "tags": ["Breach", "Gauntlets", "Two-Handed", "Martial"]
+    "tags": ["_Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
   {
     "rune": "Plague Retch",
@@ -688,7 +688,7 @@
     "type": "Gauntlets",
     "cost": "50 Focus",
     "source": "Cursed Unguis",
-    "tags": ["Breach", "Gauntlets", "Two-Handed", "Martial", "Plague"]
+    "tags": ["_Breach", "Gauntlets", "Two-Handed", "Martial", "Elemental Damage", "Elemental: Plague"]
   },
 
   {
@@ -697,7 +697,7 @@
     "type": "Gauntlets",
     "cost": "133 Focus",
     "source": "Crystal Fist",
-    "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial", "Rush"]
+    "tags": ["_Unfinished", "_Breach", "Gauntlets", "Two-Handed", "Martial", "Rush"]
   },
   {
     "rune": "Cyclone Kick",
@@ -705,7 +705,7 @@
     "type": "Gauntlets",
     "cost": "50 Focus",
     "source": "Nith Grovebinders",
-    "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial", "Kick"]
+    "tags": ["_Unfinished", "_Breach", "Gauntlets", "Two-Handed", "Martial", "Kick"]
   },
   {
     "rune": "Dive Break",
@@ -713,7 +713,7 @@
     "type": "Gauntlets",
     "cost": "50 Focus",
     "source": "Vendor - Illaria",
-    "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial"]
+    "tags": ["_Unfinished", "_Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
   {
     "rune": "Dragonfly Kick",
@@ -721,7 +721,7 @@
     "type": "Gauntlets",
     "cost": "50 Focus",
     "source": "Ceremonial Nith Tunic",
-    "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial", "Kick"]
+    "tags": ["_Unfinished", "_Breach", "Gauntlets", "Two-Handed", "Martial", "Kick"]
   },
   {
     "rune": "Recoil Strike",
@@ -729,7 +729,7 @@
     "type": "Gauntlets",
     "cost": "50 Focus",
     "source": "Claw of the Crescent Moon",
-    "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial"]
+    "tags": ["_Unfinished", "_Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
    {
     "rune": "Skyfall Smash",
@@ -737,7 +737,7 @@
     "type": "Gauntlets",
     "cost": "125 Focus",
     "source": "Emerald Talons",
-    "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial"]
+    "tags": ["_Unfinished", "_Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
   {
     "rune": "Spirit Burst",
@@ -745,7 +745,7 @@
     "type": "Gauntlets",
     "cost": "50 Focus",
     "source": "Vendor - Illaria",
-    "tags": ["Unfinished", "Breach", "Gauntlets", "Two-Handed", "Martial"]
+    "tags": ["_Unfinished", "_Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
   {
     "rune": "Tempest Kick",
@@ -753,7 +753,7 @@
     "type": "Gauntlets",
     "cost": "50 Focus",
     "source": "Ironstud Interrogators",
-    "tags": ["Breach", "Gauntlets", "Two-Handed", "Martial", "Kick"]
+    "tags": ["_Breach", "Gauntlets", "Two-Handed", "Martial", "Kick"]
   }
     
 
