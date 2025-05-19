@@ -367,9 +367,39 @@
     "source": "Azure Blade",
     "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Fire", "Buff: Enchantment", "Buff"]
   },
-
-
-
+    
+  {
+    "rune": "Plague Resistance",
+    "youtube": "",
+    "type": "Any Weapon",
+    "cost": "Unknown",
+    "source": "Unknown",
+    "tags": ["_Breach", "_Unfinished", "Focus", "Buff: Resistance", "Buff", "Plague"]
+  },
+  {
+    "rune": "Electric Resistance",
+    "youtube": "",
+    "type": "Any Weapon",
+    "cost": "Unknown",
+    "source": "Unknown",
+    "tags": ["_Breach", "_Unfinished", "Focus", "Buff: Resistance", "Buff", "Lightning"]
+  },
+  {
+    "rune": "Cold Resistance",
+    "youtube": "",
+    "type": "Any Weapon",
+    "cost": "Unknown",
+    "source": "Unknown",
+    "tags": ["_Breach", "_Unfinished", "Focus", "Buff: Resistance", "Buff", "Cold"]
+  },
+  {
+    "rune": "Heat Resistance",
+    "youtube": "",
+    "type": "Any Weapon",
+    "cost": "Unknown",
+    "source": "Unknown",
+    "tags": ["_Breach", "_Unfinished", "Focus", "Buff: Resistance", "Buff", "Fire"]
+  },    
     
   {
     "rune": "Advancing Flurry",
