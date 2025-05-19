@@ -412,7 +412,7 @@
 
   {
     "rune": "Lightning Flurry",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/NcsdFXXlPSM",
     "type": "One-Handed",
     "cost": "100 Focus",
     "source": "Buried Shamshir",
@@ -420,7 +420,7 @@
   },    
   {
     "rune": "Fire Flurry",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/MZuFMEeL0_I",
     "type": "One-Handed",
     "cost": "100 Focus",
     "source": "Coiled Dawn",
@@ -428,7 +428,7 @@
   },
   {
     "rune": "Lightning Slam",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/nIALnfxLfFY",
     "type": "One-Handed",
     "cost": "100 Focus",
     "source": "Midnight Blade",
@@ -436,7 +436,7 @@
   },
   {
     "rune": "Piercing Dodge",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/HDh-Xq5uvGg",
     "type": "One-Handed",
     "cost": "100 Focus",
     "source": "Midnight Blade",
