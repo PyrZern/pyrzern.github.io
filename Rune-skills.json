@@ -409,6 +409,48 @@
     "source": "Reclaimer",
     "tags": ["_Breach", "Focus", "Flurry", "Axe"]
   },
+
+  {
+    "rune": "Lightning Flurry",
+    "youtube": "",
+    "type": "One-Handed",
+    "cost": "100 Focus",
+    "source": "Buried Shamshir",
+    "tags": ["_Breach", "Focus", "Flurry", "Elemental Damage", "Elemental: Lightning"]
+  },    
+  {
+    "rune": "Fire Flurry",
+    "youtube": "",
+    "type": "One-Handed",
+    "cost": "100 Focus",
+    "source": "Coiled Dawn",
+    "tags": ["_Breach", "_Unfinished", "Focus", "Flurry", "Elemental Damage", "Elemental: Fire"]
+  },
+  {
+    "rune": "Lightning Slam",
+    "youtube": "",
+    "type": "One-Handed",
+    "cost": "100 Focus",
+    "source": "Midnight Blade",
+    "tags": ["_Breach", "Focus", "Slam", "Elemental Damage", "Elemental: Lightning"]
+  },
+  {
+    "rune": "Piercing Dodge",
+    "youtube": "",
+    "type": "One-Handed",
+    "cost": "100 Focus",
+    "source": "Midnight Blade",
+    "tags": ["_Breach", "Focus"]
+  },
+
+
+
+
+
+
+
+
+    
   {
     "rune": "Overrun",
     "youtube": "",
