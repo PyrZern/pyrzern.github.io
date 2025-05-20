@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-05-19",
+  "lastUpdated": "2025-05-20",
 
   "skills": [
   {
@@ -193,6 +193,60 @@
   },
 
 
+
+
+
+
+  {
+    "rune": "Lightning Blast",
+    "youtube": "https://www.youtube.com/embed/oIC-xjtw_WA",
+    "type": "Wand",
+    "cost": "50 Focus",
+    "source": "Grasping Magus Wand",
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Lightning", "Wand", "Ranged"]
+  },
+  {
+    "rune": "Lightning Dart",
+    "youtube": "https://www.youtube.com/embed/z_3THEr9z8Y",
+    "type": "Wand",
+    "cost": "100 Focus",
+    "source": "Grasping Magus Wand",
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Lightning", "Wand", "Ranged"]
+  },
+
+  {
+    "rune": "Fire Walk",
+    "youtube": "https://www.youtube.com/embed/9dciiuw0hzg",
+    "type": "Wand",
+    "cost": "150 Focus",
+    "source": "Fused Coronet",
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Fire", "Wand", "Ranged"]
+  },
+  {
+    "rune": "Fire Wall",
+    "youtube": "https://www.youtube.com/embed/iDX2rhysc1o",
+    "type": "Wand",
+    "cost": "100 Focus",
+    "source": "Molten Clutch",
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Fire", "Wand", "Ranged"]
+  },
+  {
+    "rune": "Spin Strike",
+    "youtube": "https://www.youtube.com/embed/W8hTJdiOY4Q",
+    "type": "Wand",
+    "cost": "100 Focus",
+    "source": "Fused Coronet",
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Fire", "Wand", "Ranged"]
+  },
+  {
+    "rune": "Armageddon",
+    "youtube": "https://www.youtube.com/embed/lQ83n5LCswI",
+    "type": "Wand",
+    "cost": "150 Focus",
+    "source": "Molten Clutch",
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Fire", "Wand", "Ranged"]
+  },
+    
   {
     "rune": "Plague Barrage",
     "youtube": "https://www.youtube.com/embed/F2aZPnZE8FY",
@@ -572,7 +626,14 @@
     "source": "Freiheit",
     "tags": ["_Breach", "Focus", "Two-Handed", "Greatsword", "Spin"]
   },
-    
+  {
+    "rune": "Ice Ram",
+    "youtube": "https://www.youtube.com/embed/1FIhdYwnrHY",
+    "type": "Two-Handed",
+    "cost": "100 Focus",
+    "source": "Short Bardiche",
+    "tags": ["_Breach", "Focus", "Two-Handed", "Ram", "Elemental Damage", "Elemental: Ice"]
+  },    
   {
     "rune": "Rip and Tear",
     "youtube": "",
@@ -797,11 +858,11 @@
   },
   {
     "rune": "Recoil Strike",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/zAbGEV28RGs",
     "type": "Gauntlets",
     "cost": "50 Focus",
     "source": "Claw of the Crescent Moon",
-    "tags": ["_Unfinished", "_Breach", "Gauntlets", "Two-Handed", "Martial"]
+    "tags": ["_Breach", "Focus", "Gauntlets", "Two-Handed", "Martial"]
   },
    {
     "rune": "Skyfall Smash",
