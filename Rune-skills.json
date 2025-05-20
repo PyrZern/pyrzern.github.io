@@ -581,15 +581,15 @@
   {
     "rune": "Lightning Assault",
     "youtube": "https://www.youtube.com/embed/fYl8mQUHI5g",
-    "type": "Greataxe",
+    "type": "Two-Handed",
     "cost": "100 Focus",
     "source": "Gilded Twibill",
-    "tags": ["_Breach", "Focus", "Two-Handed", "Greataxe", "Elemental Damage", "Elemental: Lightning", "Assault"]
+    "tags": ["_Breach", "Focus", "Two-Handed", "Elemental Damage", "Elemental: Lightning", "Assault"]
   },
   {
     "rune": "Relentless Cleave",
     "youtube": "https://www.youtube.com/embed/n2k_fSe0aXc",
-    "type": "Any Two-Handed Weapon",
+    "type": "Two-Handed",
     "cost": "100 Focus",
     "source": "Boarskin Reaper",
     "tags": ["_Breach", "Focus", "Two-Handed", "Cleave"]
