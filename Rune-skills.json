@@ -10,6 +10,25 @@
     "source": "Scimitar",
     "tags": ["_Breach", "Focus", "Dash", "Twirl", "Curved"]
   },
+
+
+
+  {
+    "rune": "Lightning Dash",
+    "youtube": "https://www.youtube.com/embed/",
+    "type": "One-Handed",
+    "cost": "100 Focus",
+    "source": "Proud Lance",
+    "tags": ["_Breach", "Focus", "Dash", "Elemental Damage", "Elemental: Lightning", "One-Handed"]
+  },   
+  {
+    "rune": "Fire Dash",
+    "youtube": "https://www.youtube.com/embed/",
+    "type": "One-Handed",
+    "cost": "100 Focus",
+    "source": "Royal Hewn Axe",
+    "tags": ["_Breach", "Focus", "Dash", "Elemental Damage", "Elemental: Fire", "One-Handed"]
+  },    
   {
     "rune": "Frost Dash",
     "youtube": "https://www.youtube.com/embed/bKBiTJaU8hk",
@@ -95,10 +114,10 @@
   {
     "rune": "Knockdown Swirl",
     "youtube": "https://www.youtube.com/embed/odHlLGujVTg",
-    "type": "Curved Greatsword",
+    "type": "Any Weapon",
     "cost": "50 Focus",
-    "source": "Divine Scimitar",
-    "tags": ["_Breach", "Focus", "Two-Handed", "Curved", "Greatsword", "Swirl"]
+    "source": "Divine Scimitar, Proud Lance",
+    "tags": ["_Breach", "Focus", "Two-Handed", "One-Handed", "Swirl"]
   },
   {
     "rune": "Wallbreaker",
@@ -118,7 +137,14 @@
   },
 
 
-
+  {
+    "rune": "Evasive Swing",
+    "youtube": "https://www.youtube.com/embed/",
+    "type": "One-Handed",
+    "cost": "100 Focus",
+    "source": "Tortured Blade",
+    "tags": ["_Breach", "Focus", "Evasive", "One-Handed"]
+  },
   {
     "rune": "Arrow Shot",
     "youtube": "https://www.youtube.com/embed/-OBJvnJtkLA",
@@ -141,7 +167,7 @@
     "type": "Bow",
     "cost": "50 Focus",
     "source": "Laquered Bow",
-    "tags": ["_Breach", "Focus", "Bow", "Ranged"]
+    "tags": ["_Breach", "Focus", "Bow", "Evasive", "Ranged"]
   },
   {
     "rune": "Knockout Shot",
@@ -215,7 +241,7 @@
   },
   {
     "rune": "Lightning Leap",
-    "youtube": "   ",
+    "youtube": "https://www.youtube.com/embed/hG-DAT8W8SQ",
     "type": "Wand",
     "cost": "100 Focus",
     "source": "Amberhusk",
@@ -223,7 +249,7 @@
   },
   {
     "rune": "Lightning Storm",
-    "youtube": "   ",
+    "youtube": "https://www.youtube.com/embed/s76nNT_d9uo",
     "type": "Wand",
     "cost": "100 Focus",
     "source": "Amberhusk",
@@ -231,7 +257,7 @@
   },
   {
     "rune": "Lightning Barrage",
-    "youtube": "   ",
+    "youtube": "https://www.youtube.com/embed/UDdXycZbCWU",
     "type": "Wand",
     "cost": "100 Focus",
     "source": "Crooked Key",
@@ -239,7 +265,7 @@
   },
   {
     "rune": "Lightning Flash",
-    "youtube": "   ",
+    "youtube": "https://www.youtube.com/embed/hKplYoruPSg",
     "type": "Wand",
     "cost": "100 Focus",
     "source": "Crooked Key",
@@ -250,7 +276,7 @@
     
   {
     "rune": "Fire Burst",
-    "youtube": "   ",
+    "youtube": "https://www.youtube.com/embed/07BTgTxyY2Q",
     "type": "Wand",
     "cost": "100 Focus",
     "source": "Flame Becomes Us",
@@ -258,7 +284,7 @@
   },
   {
     "rune": "Converging Flame",
-    "youtube": "   ",
+    "youtube": "https://www.youtube.com/embed/lBHXinUNh98",
     "type": "Wand",
     "cost": "100 Focus",
     "source": "Flame Becomes Us",
@@ -478,7 +504,7 @@
     "youtube": "",
     "type": "Any Weapon",
     "cost": "50 Focus",
-    "source": "Shroud Cleaver",
+    "source": "Shroudcleaver",
     "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Plague", "Buff: Enchantment", "Buff"]
   },
   {
@@ -586,11 +612,10 @@
 
 
 
-
     
   {
     "rune": "Overrun",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/LtZIdZcKGBI",
     "type": "Sword",
     "cost": "100 Focus",
     "source": "Whetted Wedge",
@@ -607,7 +632,7 @@
 
   {
     "rune": "Blazing Rupture",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/     ",
     "type": "Club",
     "cost": "100 Focus",
     "source": "Flame Wrangler",
@@ -615,11 +640,11 @@
   },
   {
     "rune": "Tornado Strike",
-    "youtube": "",
-    "type": "Club",
+    "youtube": "https://www.youtube.com/embed/h85bE_P3vn4",
+    "type": "One-Handed",
     "cost": "50 Focus",
     "source": "Harvester’s Bonesaw",
-    "tags": ["_Breach", "Focus", "Club"]
+    "tags": ["_Breach", "Focus", "One-Handed"]
   },
   {
     "rune": "Brutal Reprise",
@@ -640,7 +665,7 @@
 
   {
     "rune": "Eruption",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/DLat4K7ndE8",
     "type": "Two-Handed",
     "cost": "150 Focus",
     "source": "Festering Cleft",
@@ -656,7 +681,7 @@
   },
   {
     "rune": "Gyro Slash",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/aWBrvAdv8Rk",
     "type": "One-Handed",
     "cost": "100 Focus",
     "source": "Gnarled Harpoon",
@@ -664,38 +689,37 @@
   },
   {
     "rune": "Crushing Flurry",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/bfnYCN8ns4Y",
     "type": "One-Handed",
     "cost": "100 Focus",
     "source": "Cronus, Thorn Gripper, Nail Laden Club",
     "tags": ["_Breach", "Focus", "Flurry", "One-Handed"]
   },
 
-
     
   {
     "rune": "Raging Spiral",
     "youtube": "",
-    "type": "Greataxe",
+    "type": "Two-Handed",
     "cost": "100 Focus",
     "source": "Midnight Shredder",
-    "tags": ["_Breach", "Focus", "Two-Handed", "Greataxe", "Spiral"]
+    "tags": ["_Breach", "Focus", "Two-Handed", "Spiral"]
   },
   {
     "rune": "Breaker Thrust",
     "youtube": "",
-    "type": "Greataxe",
+    "type": "Two-Handed",
     "cost": "50 Focus",
     "source": "Harvester’s Dread",
-    "tags": ["_Breach", "Focus", "Two-Handed", "Greataxe", "Thrust"]
+    "tags": ["_Breach", "Focus", "Two-Handed", "Thrust"]
   },
   {
     "rune": "Fire Whirlwind",
     "youtube": "https://www.youtube.com/embed/wPtoC62DLRY",
-    "type": "Greataxe",
+    "type": "Two-Handed",
     "cost": "100 Focus",
     "source": "Huro's Great Axe",
-    "tags": ["_Breach", "Focus", "Two-Handed", "Greataxe", "Elemental Damage", "Elemental: Fire", "Whirlwind"]
+    "tags": ["_Breach", "Focus", "Two-Handed", "Elemental Damage", "Elemental: Fire", "Whirlwind"]
     },
   {
     "rune": "Lightning Assault",
@@ -755,13 +779,21 @@
   },    
   {
     "rune": "Rip and Tear",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/2vRpUPeW4Tc",
     "type": "Scythe",
     "cost": "100 Focus",
     "source": "Hope Shorn",
     "tags": ["_Breach", "Focus", "Two-Handed", "Scythe"]
   },
   {
+    "rune": "Reap",
+    "youtube": "https://www.youtube.com/embed/   ",
+    "type": "Scythe",
+    "cost": "100 Focus",
+    "source": "Proud Lance",
+    "tags": ["_Breach", "Focus", "Two-Handed"]
+  },
+    {
     "rune": "Tremor Slam",
     "youtube": "",
     "type": "Greatsword",
@@ -769,7 +801,6 @@
     "source": "Mayhem",
     "tags": ["_Breach", "Focus", "Two-Handed", "Greatsword", "Slam"]
   },
-
 
 
 
