@@ -144,6 +144,22 @@
     "tags": ["_Breach", "Focus", "Bow", "Ranged"]
   },
   {
+    "rune": "Knockout Shot",
+    "youtube": "https://www.youtube.com/embed/CDyOW4evINE",
+    "type": "Bow",
+    "cost": "100 Focus",
+    "source": "Pale Ash",
+    "tags": ["_Breach", "Focus", "Bow", "Ranged"]
+  },
+  {
+    "rune": "Multi Shot",
+    "youtube": "https://www.youtube.com/embed/mfS8Oa9ikLU",
+    "type": "Bow",
+    "cost": "100 Focus",
+    "source": "Short Bow",
+    "tags": ["_Breach", "Focus", "Bow", "Ranged", "Channel"]
+  },
+  {
     "rune": "Fire Arrow",
     "youtube": "https://www.youtube.com/embed/9ZxBg2V2f9M",
     "type": "Bow",
@@ -160,28 +176,12 @@
     "tags": ["_Breach", "Focus", "Bow", "Ranged", "Elemental Damage", "Elemental: Cold"]
   },
   {
-    "rune": "Knockout Shot",
-    "youtube": "https://www.youtube.com/embed/CDyOW4evINE",
-    "type": "Bow",
-    "cost": "100 Focus",
-    "source": "Pale Ash",
-    "tags": ["_Breach", "Focus", "Bow", "Ranged"]
-  },
-  {
     "rune": "Lightning Arrow",
     "youtube": "https://www.youtube.com/embed/g5HQGg8TuN8",
     "type": "Bow",
     "cost": "20 Focus",
     "source": "Woodland Protector",
     "tags": ["_Breach", "Focus", "Bow", "Ranged", "Elemental Damage", "Elemental: Lightning"]
-  },
-  {
-    "rune": "Multi Shot",
-    "youtube": "https://www.youtube.com/embed/mfS8Oa9ikLU",
-    "type": "Bow",
-    "cost": "100 Focus",
-    "source": "Short Bow",
-    "tags": ["_Breach", "Focus", "Bow", "Ranged", "Channel"]
   },
   {
     "rune": "Plague Arrow",
@@ -332,6 +332,38 @@
     "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Plague", "Swirl"]
   },
 
+  {
+    "rune": "Homing Frost",
+    "youtube": "",
+    "type": "Staff",
+        "cost": "100 Focus",
+    "source": "Endless Winter",
+    "tags": ["_Breach", "Focus", "Staff", "Elemental Damage", "Elemental: Cold"]
+  },
+  {
+    "rune": "Frost Stream",
+    "youtube": "",
+    "type": "Staff",
+    "cost": "25 Focus",
+    "source": "Vendor - Eleanor",
+    "tags": ["_Breach", "Focus", "Staff", "Elemental Damage", "Elemental: Cold", "Channel"]
+  },
+  {
+    "rune": "Rotwheel",
+    "youtube": "",
+    "type": "Staff",
+    "cost": "100 Focus",
+    "source": "Caretaker’s Ruined Staff",
+    "tags": ["_Breach", "Focus", "Staff", "Elemental Damage", "Elemental: Plague"]
+  },
+  {
+    "rune": "Pestilence",
+    "youtube": "",
+    "type": "Staff",
+    "cost": "150 Focus",
+    "source": "Unknown",
+    "tags": ["_Breach", "Focus", "Staff", "Elemental Damage", "Elemental: Plague"]
+  },
 
 
 
@@ -472,8 +504,7 @@
     "cost": "50 Focus",
     "source": "Azure Blade",
     "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Fire", "Buff: Enchantment", "Buff"]
-  },
-    
+  },    
   {
     "rune": "Plague Resistance",
     "youtube": "",
@@ -737,38 +768,6 @@
     "cost": "100 Focus",
     "source": "Mayhem",
     "tags": ["_Breach", "Focus", "Two-Handed", "Greatsword", "Slam"]
-  },
-  {
-    "rune": "Homing Frost",
-    "youtube": "",
-    "type": "Staff",
-        "cost": "100 Focus",
-    "source": "Endless Winter",
-    "tags": ["_Breach", "Focus", "Staff", "Elemental Damage", "Elemental: Cold"]
-  },
-  {
-    "rune": "Frost Stream",
-    "youtube": "",
-    "type": "Staff",
-    "cost": "25 Focus",
-    "source": "Vendor - Eleanor",
-    "tags": ["_Breach", "Focus", "Staff", "Elemental Damage", "Elemental: Cold", "Channel"]
-  },
-  {
-    "rune": "Rotwheel",
-    "youtube": "",
-    "type": "Staff",
-    "cost": "100 Focus",
-    "source": "Caretaker’s Ruined Staff",
-    "tags": ["_Breach", "Focus", "Staff", "Elemental Damage", "Elemental: Plague"]
-  },
-  {
-    "rune": "Pestilence",
-    "youtube": "",
-    "type": "Staff",
-    "cost": "150 Focus",
-    "source": "Unknown",
-    "tags": ["_Breach", "Focus", "Staff", "Elemental Damage", "Elemental: Plague"]
   },
 
 
