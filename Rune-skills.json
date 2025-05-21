@@ -213,7 +213,59 @@
     "source": "Grasping Magus Wand",
     "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Lightning", "Wand", "Ranged"]
   },
+  {
+    "rune": "Lightning Leap",
+    "youtube": "   ",
+    "type": "Wand",
+    "cost": "100 Focus",
+    "source": "Amberhusk",
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Lightning", "Wand", "Ranged", "Leap"]
+  },
+  {
+    "rune": "Lightning Storm",
+    "youtube": "   ",
+    "type": "Wand",
+    "cost": "100 Focus",
+    "source": "Amberhusk",
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Lightning", "Wand", "Ranged"]
+  },
+  {
+    "rune": "Lightning Barrage",
+    "youtube": "   ",
+    "type": "Wand",
+    "cost": "100 Focus",
+    "source": "Crooked Key",
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Lightning", "Wand", "Ranged"]
+  },
+  {
+    "rune": "Lightning Flash",
+    "youtube": "   ",
+    "type": "Wand",
+    "cost": "100 Focus",
+    "source": "Crooked Key",
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Lightning", "Wand", "Ranged"]
+  },
 
+
+    
+  {
+    "rune": "Fire Burst",
+    "youtube": "   ",
+    "type": "Wand",
+    "cost": "100 Focus",
+    "source": "Flame Becomes Us",
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Fire", "Wand", "Ranged"]
+  },
+  {
+    "rune": "Converging Flame",
+    "youtube": "   ",
+    "type": "Wand",
+    "cost": "100 Focus",
+    "source": "Flame Becomes Us",
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Fire", "Wand", "Ranged"]
+  },
+
+    
   {
     "rune": "Fire Walk",
     "youtube": "https://www.youtube.com/embed/9dciiuw0hzg",
@@ -554,6 +606,42 @@
     "source": "Shrike Tree",
     "tags": ["_Breach", "Focus", "Mace", "Whirl", "Elemental Damage", "Elemental: Lightning"]
   },
+
+  {
+    "rune": "Eruption",
+    "youtube": "",
+    "type": "Two-Handed",
+    "cost": "150 Focus",
+    "source": "Festering Cleft",
+    "tags": ["_Breach", "Focus", "Two-Handed", "Elemental Damage", "Elemental: Fire"]
+  },
+  {
+    "rune": "Overrun",
+    "youtube": "",
+    "type": "One-Handed",
+    "cost": "100 Focus",
+    "source": "Whetted Edge",
+    "tags": ["_Breach", "Focus", "One-Handed"]
+  },
+  {
+    "rune": "Gyro Slash",
+    "youtube": "",
+    "type": "One-Handed",
+    "cost": "100 Focus",
+    "source": "Gnarled Harpoon",
+    "tags": ["_Breach", "Focus", "One-Handed"]
+  },
+  {
+    "rune": "Crushing Flurry",
+    "youtube": "",
+    "type": "One-Handed",
+    "cost": "100 Focus",
+    "source": "Cronus, Thorn Gripper, Nail Laden Club",
+    "tags": ["_Breach", "Focus", "Flurry", "One-Handed"]
+  },
+
+
+    
   {
     "rune": "Raging Spiral",
     "youtube": "",
