@@ -169,10 +169,10 @@
   },
   {
     "rune": "Lightning Arrow",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/g5HQGg8TuN8",
     "type": "Bow",
     "cost": "20 Focus",
-    "source": "Unknown",
+    "source": "Woodland Protector",
     "tags": ["_Breach", "Focus", "Bow", "Ranged", "Elemental Damage", "Elemental: Lightning"]
   },
   {
