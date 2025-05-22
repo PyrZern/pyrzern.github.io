@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-05-21",
+  "lastUpdated": "2025-05-22",
 
   "skills": [
   {
@@ -15,7 +15,7 @@
 
   {
     "rune": "Lightning Dash",
-    "youtube": "https://www.youtube.com/embed/",
+    "youtube": "https://www.youtube.com/embed/laWRBdQuMOM",
     "type": "One-Handed",
     "cost": "100 Focus",
     "source": "Proud Lance",
@@ -23,7 +23,7 @@
   },   
   {
     "rune": "Fire Dash",
-    "youtube": "https://www.youtube.com/embed/",
+    "youtube": "https://www.youtube.com/embed/PrV8evaxO6E",
     "type": "One-Handed",
     "cost": "100 Focus",
     "source": "Royal Hewn Axe",
@@ -139,7 +139,7 @@
 
   {
     "rune": "Evasive Swing",
-    "youtube": "https://www.youtube.com/embed/",
+    "youtube": "https://www.youtube.com/embed/2jwzAooYVa0",
     "type": "One-Handed",
     "cost": "100 Focus",
     "source": "Tortured Blade",
@@ -477,7 +477,7 @@
   },
   {
     "rune": "Pulse Of Health",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/bGBWbVo_JUI",
     "type": "Any Weapon",
     "cost": "100 Focus",
     "source": "Vendor - Eleanor",
@@ -501,7 +501,7 @@
   },    
   {
     "rune": "Plague Enchantment",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/UfOBSfLvN4w",
     "type": "Any Weapon",
     "cost": "50 Focus",
     "source": "Shroudcleaver",
@@ -787,11 +787,11 @@
   },
   {
     "rune": "Reap",
-    "youtube": "https://www.youtube.com/embed/   ",
-    "type": "Scythe",
+    "youtube": "https://www.youtube.com/embed/A9-lYwPk2Pg",
+    "type": "Any Weapon",
     "cost": "100 Focus",
     "source": "Proud Lance",
-    "tags": ["_Breach", "Focus", "Two-Handed"]
+    "tags": ["_Breach", "Focus", "Two-Handed", "One-Handed"]
   },
     {
     "rune": "Tremor Slam",
@@ -799,7 +799,7 @@
     "type": "Greatsword",
     "cost": "100 Focus",
     "source": "Mayhem",
-    "tags": ["_Breach", "Focus", "Two-Handed", "Greatsword", "Slam"]
+    "tags": ["_Breach", "Focus", "Two-Handed", "Slam"]
   },
 
 
