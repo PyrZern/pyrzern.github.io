@@ -56,12 +56,19 @@
   {
     "rune": "Crush",
     "youtube": "https://www.youtube.com/embed/hZJ03Oj6UlQ",
-    "type": "Weapon",
+    "type": "One-Handed",
     "cost": "100 Focus",
     "source": "Unknown",
-    "tags": ["_Breach", "Focus", "Crush"]
+    "tags": ["_Breach", "Focus", "One-Handed"]
   },
-
+  {
+    "rune": "Jump Cut",
+    "youtube": "https://www.youtube.com/embed/v3x-mONXwcM",
+    "type": "One-Handed",
+    "cost": "100 Focus",
+    "source": "Wooden Sword",
+    "tags": ["_Breach", "Focus", "One-Handed"]
+  },
 
 
     
@@ -76,10 +83,10 @@
   {
     "rune": "Crushing Slam",
     "youtube": "https://www.youtube.com/embed/A7TYa6kQ-GM",
-    "type": "Greatclub",
+    "type": "Two-Handed",
     "cost": "100 Focus",
     "source": "Brutish Cudgel",
-    "tags": ["_Breach", "Focus", "Two-Handed", "Greatclub", "Slam"]
+    "tags": ["_Breach", "Focus", "Two-Handed", "Slam"]
   },
   {
     "rune": "Kick Slash",
@@ -87,7 +94,7 @@
     "type": "Curved Sword",
     "cost": "100 Focus",
     "source": "Rusty Khopesh",
-    "tags": ["_Breach", "Focus", "Curved", "Slash", "Kick"]
+    "tags": ["_Breach", "Focus", "Curved", "Slash", "Kick", "One-Handed"]
   },
   {
     "rune": "Lightning Spin",
@@ -95,7 +102,7 @@
     "type": "Curved Sword",
     "cost": "100 Focus",
     "source": "Filleter",
-    "tags": ["_Breach", "Focus", "Curved", "Elemental Damage", "Elemental: Lightning", "Spin"]
+    "tags": ["_Breach", "Focus", "Curved", "Elemental Damage", "Elemental: Lightning", "Spin", "One-Handed"]
   },
 
 
@@ -421,7 +428,7 @@
   },
    {
     "rune": "Blink",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/MrtJY3C1moU",
     "type": "Any Weapon",
     "cost": "25 Focus",
     "source": "Vendor - Eleanor",
@@ -429,7 +436,7 @@
   },
   {
     "rune": "Heal Aura",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/vEVr-YuLDLQ",
     "type": "Any Weapon",
     "cost": "25 Focus",
     "source": "Vendor - Eleanor",
@@ -632,7 +639,7 @@
 
   {
     "rune": "Blazing Rupture",
-    "youtube": "https://www.youtube.com/embed/     ",
+    "youtube": "https://www.youtube.com/embed/lSrJHsSPyes",
     "type": "Club",
     "cost": "100 Focus",
     "source": "Flame Wrangler",
@@ -648,11 +655,11 @@
   },
   {
     "rune": "Brutal Reprise",
-    "youtube": "",
-    "type": "Club",
+    "youtube": "https://www.youtube.com/embed/soAv0nPJ8zY",
+    "type": "One-Handed",
     "cost": "50 Focus",
     "source": "Nailbringer",
-    "tags": ["_Breach", "Focus", "Club"]
+    "tags": ["_Breach", "Focus", "Club", "One-Handed"]
   },
   {
     "rune": "Lightning Whirl",
