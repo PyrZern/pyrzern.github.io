@@ -1,18 +1,15 @@
 {
-  "lastUpdated": "2025-05-26",
+  "lastUpdated": "2025-05-27",
 
   "skills": [
   {
     "rune": "Twirl Dash",
     "youtube": "https://www.youtube.com/embed/NUQjSfxAq2M",
-    "type": "Curved Sword",
+    "type": "One-Handed",
     "cost": "100 Focus",
     "source": "Scimitar",
-    "tags": ["_Breach", "Focus", "Dash", "Twirl", "Curved"]
+    "tags": ["_Breach", "Focus", "Dash", "Twirl", "One-Handed"]
   },
-
-
-
   {
     "rune": "Lightning Dash",
     "youtube": "https://www.youtube.com/embed/laWRBdQuMOM",
@@ -44,7 +41,44 @@
     "cost": "100 Focus",
     "source": "Hunter's Knife",
     "tags": ["_Breach", "Focus", "Dash", "Piercing", "Knife"]
+  },    
+    {
+    "rune": "Slashing Dash",
+    "youtube": "https://www.youtube.com/embed/jyrIIIUlejU",
+    "type": "One-Handed",
+    "cost": "100 Focus",
+    "source": "The Last Word",
+    "tags": ["_Breach", "Focus", "Dash", "One-Handed"]
   },
+  {
+    "rune": "Slashing Spin",
+    "youtube": "https://www.youtube.com/embed/8BeZ7ngTb50",
+    "type": "Two-Handed",
+    "cost": "100 Focus",
+    "source": "Freiheit",
+    "tags": ["_Breach", "Focus", "Two-Handed", "Spin"]
+  },
+  {
+    "rune": "Slashing Pirouette",
+    "youtube": "https://www.youtube.com/embed/     ",
+    "type": "One-Handed",
+    "cost": "100 Focus",
+    "source": "Etched Yatagan",
+    "tags": ["_Breach", "Focus", "One-Handed"]
+  },
+
+  {
+    "rune": "Surge Strike",
+    "youtube": "https://www.youtube.com/embed/YHrBpYcLiB8",
+    "type": "One-Handed",
+    "cost": "100 Focus",
+    "source": "Unknown",
+    "tags": ["_Breach", "Focus", "One-Handed"]
+  },
+    
+
+
+    
   {
     "rune": "Dual Flurry",
     "youtube": "https://www.youtube.com/embed/fFynD5WxFRg",
@@ -278,8 +312,22 @@
     "source": "Crooked Key",
     "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Lightning", "Wand", "Ranged"]
   },
-
-
+  {
+    "rune": "Charged Bolt",
+    "youtube": "https://www.youtube.com/embed/p49hno1_hSU",
+    "type": "Wand",
+    "cost": "50 Focus",
+    "source": "Tarnished Wand",
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Lightning", "Wand", "Ranged", "AoE"]
+  },
+  {
+    "rune": "Chain Lightning",
+    "youtube": "https://www.youtube.com/embed/      ",
+    "type": "Staff",
+    "cost": "50 Focus",
+    "source": "Cursed Crone",
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Lightning", "Staff", "Ranged", "AoE"]
+  },
     
   {
     "rune": "Fire Burst",
@@ -768,14 +816,7 @@
     "source": "Sieger",
     "tags": ["_Breach", "Focus", "Two-Handed", "Greatsword", "Elemental Damage", "Elemental: Plague"]
   },
-  {
-    "rune": "Slashing Spin",
-    "youtube": "https://www.youtube.com/embed/8BeZ7ngTb50",
-    "type": "Greatsword",
-    "cost": "100 Focus",
-    "source": "Freiheit",
-    "tags": ["_Breach", "Focus", "Two-Handed", "Greatsword", "Spin"]
-  },
+
   {
     "rune": "Ice Ram",
     "youtube": "https://www.youtube.com/embed/1FIhdYwnrHY",
