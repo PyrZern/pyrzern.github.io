@@ -29,18 +29,18 @@
   {
     "rune": "Frost Dash",
     "youtube": "https://www.youtube.com/embed/bKBiTJaU8hk",
-    "type": "Knife",
+    "type": "One-Handed",
     "cost": "100 Focus",
     "source": "Jackknife",
-    "tags": ["_Breach", "Focus", "Dash", "Elemental Damage", "Elemental: Cold", "Knife"]
+    "tags": ["_Breach", "Focus", "Dash", "Elemental Damage", "Elemental: Cold", "One-Handed"]
   },
   {
     "rune": "Piercing Dash",
     "youtube": "https://www.youtube.com/embed/lM4jAv5e1fU",
-    "type": "Knife",
+    "type": "One-Handed",
     "cost": "100 Focus",
     "source": "Hunter's Knife",
-    "tags": ["_Breach", "Focus", "Dash", "Piercing", "Knife"]
+    "tags": ["_Breach", "Focus", "Dash", "Piercing", "One-Handed"]
   },    
     {
     "rune": "Slashing Dash",
@@ -125,18 +125,18 @@
   {
     "rune": "Kick Slash",
     "youtube": "https://www.youtube.com/embed/li6f_BQNflE",
-    "type": "Curved Sword",
+    "type": "One-Handed",
     "cost": "100 Focus",
     "source": "Rusty Khopesh",
-    "tags": ["_Breach", "Focus", "Curved", "Slash", "Kick", "One-Handed"]
+    "tags": ["_Breach", "Focus", "Slash", "Kick", "One-Handed"]
   },
   {
     "rune": "Lightning Spin",
     "youtube": "https://www.youtube.com/embed/JJQUEY384Ms",
-    "type": "Curved Sword",
+    "type": "One-Handed",
     "cost": "100 Focus",
     "source": "Filleter",
-    "tags": ["_Breach", "Focus", "Curved", "Elemental Damage", "Elemental: Lightning", "Spin", "One-Handed"]
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Lightning", "Spin", "One-Handed"]
   },
 
 
@@ -755,18 +755,18 @@
   {
     "rune": "Overrun",
     "youtube": "https://www.youtube.com/embed/LtZIdZcKGBI",
-    "type": "Sword",
+    "type": "One-Handed",
     "cost": "100 Focus",
     "source": "Whetted Wedge",
-    "tags": ["_Breach", "Focus", "Sword"]
+    "tags": ["_Breach", "Focus", "One-Handed"]
   },
   {
     "rune": "Stormpiercer",
     "youtube": "",
-    "type": "Sword",
+    "type": "One-Handed",
     "cost": "100 Focus",
     "source": "Scorched Broadblade",
-    "tags": ["_Breach", "Focus", "Sword"]
+    "tags": ["_Breach", "Focus", "One-Handed"]
   },
 
   {
@@ -796,10 +796,10 @@
   {
     "rune": "Lightning Whirl",
     "youtube": "",
-    "type": "Mace",
+    "type": "One-Handed",
     "cost": "150 Focus",
     "source": "Shrike Tree",
-    "tags": ["_Breach", "Focus", "Mace", "Whirl", "Elemental Damage", "Elemental: Lightning"]
+    "tags": ["_Breach", "Focus", "One-Handed", "Whirl", "Elemental Damage", "Elemental: Lightning"]
   },
 
   {
