@@ -321,6 +321,23 @@
     "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Lightning", "Wand", "Ranged", "AoE"]
   },
   {
+    "rune": "Lightning Bolt",
+    "youtube": "https://www.youtube.com/embed/      ",
+    "type": "Wand",
+    "cost": "150 Focus",
+    "source": "Tarnished Wand",
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Lightning", "Wand", "Ranged", "AoE"]
+  },
+  {
+    "rune": "Static",
+    "youtube": "https://www.youtube.com/embed/   ",
+    "type": "Wand",
+    "cost": "100 Focus",
+    "source": "Tarnished Wand",
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Lightning", "Wand", "Ranged", "AoE"]
+  },
+    
+  {
     "rune": "Chain Lightning",
     "youtube": "https://www.youtube.com/embed/      ",
     "type": "Staff",
@@ -328,7 +345,25 @@
     "source": "Cursed Crone",
     "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Lightning", "Staff", "Ranged", "AoE"]
   },
-    
+
+
+
+  {
+    "rune": "Fire Dart",
+    "youtube": "https://www.youtube.com/embed/     ",
+    "type": "Wand",
+    "cost": "50 Focus",
+    "source": "Entwined Root",
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Fire", "Wand", "Ranged"]
+  },
+  {
+    "rune": "Fire Blast",
+    "youtube": "https://www.youtube.com/embed/     ",
+    "type": "Wand",
+    "cost": "50 Focus",
+    "source": "Entwined Root",
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Fire", "Wand", "Ranged"]
+  },    
   {
     "rune": "Fire Burst",
     "youtube": "https://www.youtube.com/embed/07BTgTxyY2Q",
@@ -344,9 +379,7 @@
     "cost": "100 Focus",
     "source": "Flame Becomes Us",
     "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Fire", "Wand", "Ranged"]
-  },
-
-    
+  },   
   {
     "rune": "Fire Walk",
     "youtube": "https://www.youtube.com/embed/9dciiuw0hzg",
@@ -397,6 +430,64 @@
     "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Plague", "Wand", "Ranged"]
   },
   {
+    "rune": "Plague Column",
+    "youtube": "https://www.youtube.com/embed/    ",
+    "type": "Wand",
+    "cost": "100 Focus",
+    "source": "Nit Gate",
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Plague"]
+  },
+  {
+    "rune": "Plague Splatter",
+    "youtube": "https://www.youtube.com/embed/   ",
+    "type": "Wand",
+    "cost": "150 Focus",
+    "source": "Nit Gate",
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Plague"]
+  },    
+
+  {
+    "rune": "Plague Burst",
+    "youtube": "https://www.youtube.com/embed/   ",
+    "type": "Wand",
+    "cost": "100 Focus",
+    "source": "Sanglier",
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Plague"]
+  },        
+  {
+    "rune": "Plague Launch",
+    "youtube": "https://www.youtube.com/embed/   ",
+    "type": "Wand",
+    "cost": "100 Focus",
+    "source": "Sanglier",
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Plague"]
+  },      
+  
+    {
+    "rune": "Plague Strike",
+    "youtube": "https://www.youtube.com/embed/lZMOQUBg6sk",
+    "type": "Wand",
+    "cost": "50 Focus",
+    "source": "Unknown",
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Plague"]
+  },
+  {
+    "rune": "Plague Dart",
+    "youtube": "https://www.youtube.com/embed/    ",
+    "type": "Wand",
+    "cost": "50 Focus",
+    "source": "Lord of the Muck",
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Plague", "Ranged"]
+  },
+  {
+    "rune": "Plague Smite",
+    "youtube": "https://www.youtube.com/embed/    ",
+    "type": "Wand",
+    "cost": "50 Focus",
+    "source": "Lord of the Muck",
+    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Plague"]
+  },
+      {
     "rune": "Plague Swirl",
     "youtube": "https://www.youtube.com/embed/J811XEgEtgc",
     "type": "Weapon",
@@ -404,16 +495,9 @@
     "source": "Honed Frenzy",
     "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Plague", "Swirl"]
   },
-  {
-    "rune": "Plague Strike",
-    "youtube": "https://www.youtube.com/embed/lZMOQUBg6sk",
-    "type": "Weapon",
-    "cost": "50 Focus",
-    "source": "Unknown",
-    "tags": ["_Breach", "Focus", "Elemental Damage", "Elemental: Plague", "Swirl"]
-  },
 
-  {
+    
+    {
     "rune": "Homing Frost",
     "youtube": "",
     "type": "Staff",
@@ -978,7 +1062,7 @@
     "youtube": "https://www.youtube.com/embed/JhmXjxNZ7LY",
     "type": "Gauntlets",
     "cost": "50 Focus",
-    "source": "Heibach's Claws",
+    "source": "Reibach's Claws",
     "tags": ["_Breach", "Gauntlets", "Two-Handed", "Martial"]
   },
   {
@@ -989,12 +1073,19 @@
     "source": "Cursed Unguis",
     "tags": ["_Breach", "Gauntlets", "Two-Handed", "Martial", "Elemental Damage", "Elemental: Plague"]
   },
-
+  {
+    "rune": "Rising Fang",
+    "youtube": "https://www.youtube.com/embed/             ",
+    "type": "Gauntlets",
+    "cost": "50 Focus",
+    "source": "Sun's Scorn",
+    "tags": ["_Unfinished", "_Breach", "Gauntlets", "Two-Handed", "Martial", "Rush"]
+  },
   {
     "rune": "Break Rush",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/embed/             ",
     "type": "Gauntlets",
-    "cost": "133 Focus",
+    "cost": "100 Focus",
     "source": "Crystal Fist",
     "tags": ["_Unfinished", "_Breach", "Gauntlets", "Two-Handed", "Martial", "Rush"]
   },
@@ -1019,7 +1110,7 @@
     "youtube": "",
     "type": "Gauntlets",
     "cost": "50 Focus",
-    "source": "Ceremonial Nith Tunic",
+    "source": "Gossamer Gauntlets",
     "tags": ["_Unfinished", "_Breach", "Gauntlets", "Two-Handed", "Martial", "Kick"]
   },
   {
