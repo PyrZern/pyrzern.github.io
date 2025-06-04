@@ -163,18 +163,18 @@
   {
     "rune": "Wallbreaker",
     "youtube": "https://www.youtube.com/embed/bWejEJdBPQo",
-    "type": "Greatsword",
+    "type": "Two-Handed",
     "cost": "100 Focus",
     "source": "Summer's Sting",
-    "tags": ["_Breach", "Focus", "Two-Handed", "Greatsword"]
+    "tags": ["_Breach", "Focus", "Two-Handed"]
   },
   {
     "rune": "Spiral Crash",
     "youtube": "https://www.youtube.com/embed/4Ua_w3MtopI",
-    "type": "Greataxe",
+    "type": "Two-Handed",
     "cost": "50 Focus",
     "source": "Cerim's Skyrend",
-    "tags": ["_Breach", "Focus", "Two-Handed", "Axe", "Greataxe", "Spiral", "Crash"]
+    "tags": ["_Breach", "Focus", "Two-Handed", "Spiral", "Crash"]
   },
 
 
@@ -706,10 +706,10 @@
   {
     "rune": "Advancing Flurry",
     "youtube": "",
-    "type": "Axe",
+    "type": "One-Handed",
     "cost": "100 Focus",
     "source": "Reclaimer",
-    "tags": ["_Breach", "Focus", "Flurry", "Axe"]
+    "tags": ["_Breach", "Focus", "Flurry", "One-Handed"]
   },
 
   {
@@ -772,10 +772,10 @@
   {
     "rune": "Blazing Rupture",
     "youtube": "https://www.youtube.com/embed/lSrJHsSPyes",
-    "type": "Club",
+    "type": "One-Handed",
     "cost": "100 Focus",
     "source": "Flame Wrangler",
-    "tags": ["_Breach", "Focus", "Club", "Elemental Damage", "Elemental: Fire"]
+    "tags": ["_Breach", "Focus", "One-Handed", "Elemental Damage", "Elemental: Fire"]
   },
   {
     "rune": "Tornado Strike",
@@ -791,7 +791,7 @@
     "type": "One-Handed",
     "cost": "50 Focus",
     "source": "Nailbringer",
-    "tags": ["_Breach", "Focus", "Club", "One-Handed"]
+    "tags": ["_Breach", "Focus", "One-Handed"]
   },
   {
     "rune": "Lightning Whirl",
@@ -879,26 +879,26 @@
   {
     "rune": "Ground Slam",
     "youtube": "https://www.youtube.com/embed/qp6q7hE1sC8",
-    "type": "Greatsword",
+    "type": "Two-Handed",
     "cost": "100 Focus",
     "source": "Festering Earth",
-    "tags": ["_Breach", "Focus", "Two-Handed", "Greatsword", "Slam"]
+    "tags": ["_Breach", "Focus", "Two-Handed", "Slam"]
   },
   {
     "rune": "Limit Break",
     "youtube": "https://www.youtube.com/embed/DC9flZwVTTw",
-    "type": "Greatsword",
+    "type": "Two-Handed",
     "cost": "100 Focus",
     "source": "Gnarled Saw",
-    "tags": ["_Breach", "Focus", "Two-Handed", "Greatsword", "Slam"]
+    "tags": ["_Breach", "Focus", "Two-Handed", "Slam"]
   },    
   {
     "rune": "Pestilent Recoil",
     "youtube": "https://www.youtube.com/embed/atEurOZJM6c",
-    "type": "Greatsword",
+    "type": "Two-Handed",
     "cost": "100 Focus",
     "source": "Sieger",
-    "tags": ["_Breach", "Focus", "Two-Handed", "Greatsword", "Elemental Damage", "Elemental: Plague"]
+    "tags": ["_Breach", "Focus", "Two-Handed", "Elemental Damage", "Elemental: Plague"]
   },
 
   {
@@ -928,7 +928,7 @@
     {
     "rune": "Tremor Slam",
     "youtube": "",
-    "type": "Greatsword",
+    "type": "Two-Handed",
     "cost": "100 Focus",
     "source": "Mayhem",
     "tags": ["_Breach", "Focus", "Two-Handed", "Slam"]
